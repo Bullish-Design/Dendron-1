@@ -89,7 +89,7 @@ publishing:
     enableKatex: true
     copyAssets: true
     assetsPrefix: /Dendron-1/
-    siteUrl: https://Bullish-Design.github.io/
+    siteUrl: https://bullish-design.github.io/
     siteHierarchies:
         - root
     writeStubs: false
