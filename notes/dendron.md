@@ -2,12 +2,22 @@
 id: 9rxk66wa1p2975p06ttsf47
 title: Dendron
 desc: ''
-updated: 1663678320124
+updated: 1663709913034
 created: 1663613208885
 ---
 
 
 Templates:
+
+    Next steps:
+        New Project from anywhere
+        New Project as subproject
+        New task from anywhere
+        New Task as subtask
+        Gather subprojects into root project
+            hide/expand
+        Gather subtasks into project
+            hide/expand
 
     Issues:
         How to actually set the schema template to trigger?
@@ -22,6 +32,8 @@ Templates:
             Solidworks/Onshape/Shapr3d/Unreal
         Priority
 
+
+
     Task:
         Name
         Description
@@ -35,6 +47,17 @@ Templates:
         Note
         Tagged Project
         Tagged Task
+
+    Tags:
+        Project Tag (To tag random things to other projects)
+        Opportunities/Risks/Concerns/Challenges Tags (For notes or tasks to be filtered into other areas)
+        
+
+    Useful Links:
+        Link
+        Description
+        Short Description
+        When used/needed
 
     People?
         https://discord.com/channels/717965437182410783/1004110748957548657/1004157684171423855

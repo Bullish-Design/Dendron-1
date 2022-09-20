@@ -2,7 +2,7 @@
 id: 8hehphpx82d587cv63v7miu
 title: New Project
 desc: ''
-updated: 1663690363179
+updated: 1663690687706
 created: 1663615079004
 filesaveloc: ''
 priority: null
@@ -21,7 +21,7 @@ endDate: 'TODO: when project ends'
 <!-- What are you trying to accomplish -->
 
 ## Context
-<!-- Background information -->
+<!-- Related Projects - Ideally build this into an automated "what's this building on/leading to" filler spot -->
 
 ## Success Criteria
 <!-- milestones for this project -->
