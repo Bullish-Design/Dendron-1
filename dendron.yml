@@ -89,11 +89,11 @@ publishing:
     enableKatex: true
     copyAssets: true
     assetsPrefix: /Dendron-1
-    siteUrl: https://bullish-design.github.io
     siteHierarchies:
         - root
     writeStubs: false
     siteRootDir: docs
+    siteUrl: https://bullish-design.github.io
     seo:
         title: Dendron
         description: Personal Knowledge Space
