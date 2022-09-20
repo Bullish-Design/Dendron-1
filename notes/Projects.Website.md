@@ -2,7 +2,7 @@
 id: j3c3us7n6m4grwfbrbtysn6
 title: Website
 desc: Overview of Website Project
-updated: 1663682550451
+updated: 1663686922509
 created: 1663623482342
 filesaveloc: ''
 priority: null
@@ -18,6 +18,9 @@ Website
 
 ## Goal
 <!-- What are you trying to accomplish -->
+Having a simple yet technically detailed collection of work. 
+    Example of something to aim for: https://wiki.cci.arts.ac.uk/books/facilities/page/using-the-silver-reed-sk840-knitting-machine
+    
 
 ## Context
 <!-- Background information -->
