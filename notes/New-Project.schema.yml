@@ -1,0 +1,9 @@
+version: 1
+imports: []
+schemas:
+  - id: Projects
+    title: New-Project
+    parent: root
+    children:
+    - pattern: '*'
+      template: dendron.templates.new-project

@@ -1,0 +1,11 @@
+version: 1
+imports: []
+schemas:
+  - id: proj
+    children: []
+    title: Project
+    namespace: true
+    parent: root.Projects
+    template:
+      id: Dendron.Templates.New_Project
+      type: note
