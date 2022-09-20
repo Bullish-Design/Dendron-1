@@ -2,7 +2,7 @@
 id: 7ki2zx7j2bewbyaszb5lxv3
 title: Daily Journal Template
 desc: ''
-updated: 1663623638378
+updated: 1663638799553
 created: 1663620099049
 ---
 This template was applied using the daily journal schema. Edit the [[templates.daily]] note to change this template.
@@ -48,4 +48,5 @@ I am...
 
 ### How could I have made today even better?
 
-I could have made today better by
+I could have made today better by:
+
