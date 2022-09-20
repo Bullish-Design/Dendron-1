@@ -2,15 +2,17 @@
 id: 9rxk66wa1p2975p06ttsf47
 title: Dendron
 desc: ''
-updated: 1663677207252
+updated: 1663678320124
 created: 1663613208885
 ---
 
 
 Templates:
+
     Issues:
         How to actually set the schema template to trigger?
             Solved
+
     Project:
         Name
         Description
