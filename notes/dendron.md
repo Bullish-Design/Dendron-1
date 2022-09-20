@@ -2,7 +2,7 @@
 id: 9rxk66wa1p2975p06ttsf47
 title: Dendron
 desc: ''
-updated: 1663709913034
+updated: 1663709986391
 created: 1663613208885
 ---
 
@@ -18,6 +18,7 @@ Templates:
             hide/expand
         Gather subtasks into project
             hide/expand
+        Parse git diff from yesterday to create a "what was done" daily log
 
     Issues:
         How to actually set the schema template to trigger?
