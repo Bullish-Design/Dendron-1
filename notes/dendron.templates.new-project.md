@@ -2,7 +2,7 @@
 id: 8hehphpx82d587cv63v7miu
 title: New Project
 desc: ''
-updated: 1663636906809
+updated: 1663690363179
 created: 1663615079004
 filesaveloc: ''
 priority: null
@@ -43,22 +43,6 @@ endDate: 'TODO: when project ends'
 ## Notes
 <!-- use this space for arbitrary notes -->
 
-## Lookup
-<!-- relevant prior work or resources -->
-
-
-
-
-
-
-
-
-Tasks:
-
-
-
-
-Notes:
-
-
+## Ideas
+<!-- relevant thoughts, ideas, or resources -->
 
