@@ -88,12 +88,11 @@ publishing:
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
-    assetsPrefix: dendron-1
     siteHierarchies:
         - root
     writeStubs: false
     siteRootDir: docs
-    siteUrl: https://bullish-design.github.io
+    siteUrl: https://bullish-design.github.io/dendron-1
     seo:
         title: Dendron
         description: Personal Knowledge Space
