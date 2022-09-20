@@ -2,7 +2,7 @@
 id: j3c3us7n6m4grwfbrbtysn6
 title: Website
 desc: Overview of Website Project
-updated: 1663687072610
+updated: 1663687944371
 created: 1663623482342
 filesaveloc: ''
 priority: null
@@ -64,6 +64,9 @@ Having a simple yet technically detailed collection of work.
 
 ## Notes
 <!-- use this space for arbitrary notes -->
+
+## Ideas
+    -https://news.ycombinator.com/item?id=32902520#:~:text=It%27s%20a%20little,it%20very%20badly.
 
 ## Lookup
 <!-- relevant prior work or resources -->
