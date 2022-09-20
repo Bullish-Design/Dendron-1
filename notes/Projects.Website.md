@@ -2,7 +2,7 @@
 id: j3c3us7n6m4grwfbrbtysn6
 title: Website
 desc: Overview of Website Project
-updated: 1663686922509
+updated: 1663687072610
 created: 1663623482342
 filesaveloc: ''
 priority: null
@@ -30,6 +30,26 @@ Having a simple yet technically detailed collection of work.
 
 ## Sub Projects
 <!-- For larger projects, list out sub projects related-->
+
+- Dendron organized, separating work and personal
+    Notes:
+        
+- Dendron hooked to blog at github page
+- AHK content creator/logger ("WorkMode")
+    - Launches required programs if not open. 
+    - Goes by what project/Task is open in Dendron (if it meets project/task requirements)
+    - Floating Icon in bottom right showing task tree, timer updates, notifications, previous/next task, New note button, new task button, big ol done with task button
+    - Tracks interactions (mouse button, highlight, click, log what window, time, active task, active project, etc)
+    - Logs interactions with computer to log file
+- Dendron Actions
+    - New task shortcut
+    - New Project shortcut
+        - project templates option
+    - AHK RMB menu tree 
+        - Save to active task as note, 
+        - Save as reference for new task
+        - etc (make flexible and modular as possible for easy adaptation later)
+    - Dendron formatting + VS code script to save-as into a properly formatted file with proper file suffix in pre-determined folder location
 
 ## Log
 <!-- For longer projects, keep a rough log of major events-->
