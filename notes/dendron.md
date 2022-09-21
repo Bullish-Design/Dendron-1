@@ -2,9 +2,41 @@
 id: 9rxk66wa1p2975p06ttsf47
 title: Dendron
 desc: ''
-updated: 1663709986391
+updated: 1663769353287
 created: 1663613208885
 ---
+
+Dendron Layout:
+    Work (vault 2)
+        Projects
+            Systems
+            NPD Projects
+                Project 1
+                Project 2
+                    Task 1
+                    Task 2
+            Quick Projects
+            Continuation Projects
+        People
+        Log
+            
+
+    Personal (Vault 1)
+        Projects
+            Systems
+                Dendron
+
+                Product Design Process
+            Website
+            Programming
+            etc
+        People
+        Log
+
+
+    Code (Separate Repo - 1 private, 1 public?)
+        Project
+            Code
 
 
 Templates:
