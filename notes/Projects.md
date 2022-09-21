@@ -4,7 +4,7 @@ title: Projects
 desc: ''
 filesaveloc: 'G:\My Drive\Google Drive - Projects'
 priority: 3
-updated: 1663614994103
+updated: 1663777953247
 created: 1663613273356
 ---
 
@@ -36,3 +36,5 @@ Projects
     - Product Category #2
 
     
+Followup on this: https://www.starterstory.com/explore
+
