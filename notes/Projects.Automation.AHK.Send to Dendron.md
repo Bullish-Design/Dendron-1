@@ -1,6 +1,6 @@
 ---
 id: 84bw84d0b2v6o40hl8xeuxe
-title: Send_to_Dendron
+title: Send to Dendron
 desc: ''
 updated: 1663736763980
 created: 1663736355957
