@@ -1,6 +1,6 @@
 ---
 id: 8hehphpx82d587cv63v7miu
-title: New Project
+title: new-project
 desc: ''
 updated: 1663690687706
 created: 1663615079004
