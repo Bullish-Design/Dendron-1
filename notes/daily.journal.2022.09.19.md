@@ -2,7 +2,7 @@
 id: nm5rtkbbo2q1kh6ocwu9hgy
 title: '2022-09-19'
 desc: ''
-updated: 1663727146409
+updated: 1663727246047
 created: 1663620099072
 traitIds:
   - journalNote
@@ -12,10 +12,11 @@ traitIds:
 TO CHANGE. But need to figure out functionality/formatting. And work on that ridiculous multi-layer tree to get to each day. 
 
 Maybe have this be more of a passive log? Tracking what was worked on that day by comparing git diffs?
-  - would need categories for organization:
-    - "1 new project created - 'New project name pulled in here'"
-    - "3 new tasks created in 'Corresponding project name pulled in here'"
-    - "5 subtasks completed: 'List of tasks given here in link format'"
+  - Would need categories for organization. 
+    - Examples:
+      - "1 new project created - 'New project name pulled in here'"
+      - "3 new tasks created in 'Corresponding project name pulled in here'"
+      - "5 subtasks completed: 'List of tasks given here in link format'"
 
 
 
