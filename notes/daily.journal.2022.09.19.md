@@ -2,12 +2,25 @@
 id: nm5rtkbbo2q1kh6ocwu9hgy
 title: '2022-09-19'
 desc: ''
-updated: 1663623714949
+updated: 1663727246047
 created: 1663620099072
 traitIds:
   - journalNote
 ---
-This template was applied using the daily journal schema. Edit the [[Dendron.templates.daily-journal]] note to change this template.
+
+
+TO CHANGE. But need to figure out functionality/formatting. And work on that ridiculous multi-layer tree to get to each day. 
+
+Maybe have this be more of a passive log? Tracking what was worked on that day by comparing git diffs?
+  - Would need categories for organization. 
+    - Examples:
+      - "1 new project created - 'New project name pulled in here'"
+      - "3 new tasks created in 'Corresponding project name pulled in here'"
+      - "5 subtasks completed: 'List of tasks given here in link format'"
+
+
+
+This template was applied using the daily journal schema. Edit the [[Projects.dendron.templates.daily-journal]] note to change this template.
 To create your own schemas to auto-apply templates when they match a hierarchy, follow the [schema tutorial](https://blog.dendron.so/notes/P1DL2uXHpKUCa7hLiFbFA/) to get started.
 
 <!--

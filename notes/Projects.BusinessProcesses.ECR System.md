@@ -1,9 +1,9 @@
 ---
-id: 8hehphpx82d587cv63v7miu
-title: New Project
+id: q7h4foz5ga8qmwg9h0kz86m
+title: ECR System
 desc: ''
-updated: 1663690687706
-created: 1663615079004
+updated: 1663761853674
+created: 1663761662899
 filesaveloc: ''
 priority: null
 startDate: 'TODO: date to start'
@@ -11,10 +11,10 @@ endDate: 'TODO: when project ends'
 ---
 
 ## Title
-{{ TITLE }}
+ECR System
 
 ## Description
-{{ DESC }}
+
 
 
 ## Goal

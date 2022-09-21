@@ -1,11 +1,13 @@
 ---
 id: root
-title: root
-desc: ""
-updated: 1605266684036
+title: Bullish Design
+desc: "Design. With horns."
+updated: 1663735986145
 created: 1595961348801
 ---
 
-This is the root for your Dendron vault.
+Welcome to Bullish Design Works. (A.K.A. - This is where you see whats in the works here at Bullish Design.)
 
-If you decide to publish your entire vault, it will be your landing page. You are free to customize any part of this page except the frontmatter at the top, between the `---`.
+This is an *active* overview of current projects and a repository of documentation for past projects. The site itself is a representation of the Dendron (https://wiki.dendron.so/) vault that holds the thoughts and development that goes on behind the scenes. This is just a spit shined version of what's getting done. 
+
+Check back often to see what's new, what's changed, and what's coming next. 
