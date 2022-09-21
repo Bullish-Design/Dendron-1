@@ -82,6 +82,7 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
+    theme: dark
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true
@@ -97,6 +98,8 @@ publishing:
     seo:
         title: Dendron
         description: Personal Knowledge Space
+    ga:
+      tracking: G-29G5DFDH0G
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
