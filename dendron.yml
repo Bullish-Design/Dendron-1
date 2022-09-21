@@ -98,6 +98,8 @@ publishing:
     seo:
         title: Dendron
         description: Personal Knowledge Space
+    ga:
+      tracking: G-29G5DFDH0G
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
