@@ -19,7 +19,7 @@ commands:
         enableMarker: false
     copyNoteLink:
         aliasMode: title
-    templateHierarchy: dendron.templates
+    templateHierarchy: Projects.dendron.templates
 workspace:
     vaults:
         -
