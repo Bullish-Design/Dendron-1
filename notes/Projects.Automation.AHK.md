@@ -2,7 +2,7 @@
 id: egjb9yt0ftsjkhp8nzru75w
 title: AHK
 desc: ''
-updated: 1663792895710
+updated: 1663805255832
 created: 1663736355962
 ---
 
@@ -20,4 +20,4 @@ Have a more streamlined interface for creating new notes, instead of just the CT
 The end goal would be parsing all the notes to be able to pull them into an index in the main project note location, and being able to link back and forth. 
 
     Functionality pt 2: That means it should also auto-generate the necessary links to go up and down the tree as needed without needing to CTRL-TAB
-
+ 

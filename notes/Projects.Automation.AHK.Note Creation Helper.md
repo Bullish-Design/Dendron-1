@@ -2,7 +2,7 @@
 id: vtdphaa71bshn2nc8cpc7k9
 title: Note Creation Helper
 desc: ''
-updated: 1663793685981
+updated: 1663812531425
 created: 1663792988206
 ---
 
@@ -14,6 +14,19 @@ Extend functionality of the included Dendron special notes (https://wiki.dendron
 
 ## Sub-Functions
 
-### Recognize shortcut list
+### Call Keyboard Shortcut
 
-### 
+#### Recognize shortcut list
+
+### Grab target file name 
+Current + ".task" or ".note" - check if exists
+
+### Search full file list for index count - check if exists
+
+### Increment index
+
+### Generate new file
+
+### Provide text input for task or note description
+
+### Add text input to new file
