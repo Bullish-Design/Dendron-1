@@ -2,7 +2,7 @@
 id: vtdphaa71bshn2nc8cpc7k9
 title: Note Creation Helper
 desc: ''
-updated: 1663812531425
+updated: 1663853932003
 created: 1663792988206
 ---
 
@@ -15,7 +15,7 @@ Extend functionality of the included Dendron special notes (https://wiki.dendron
 ## Sub-Functions
 
 ### Call Keyboard Shortcut
-
+Calls the shortcut for New Task Note, new 
 #### Recognize shortcut list
 
 ### Grab target file name 
