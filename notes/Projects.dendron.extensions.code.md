@@ -1,9 +1,9 @@
 ---
-id: o2gtgxqixaucunfilb6m3l9
-title: Coding
+id: p1df0buskxzp3old2yk302y
+title: code
 desc: ''
-updated: 1663794522351
-created: 1663793756682
+updated: 1663812684322
+created: 1663812671443
 ---
 
 # Coding Extension
