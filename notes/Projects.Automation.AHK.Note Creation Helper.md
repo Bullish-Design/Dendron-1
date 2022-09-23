@@ -2,7 +2,7 @@
 id: vtdphaa71bshn2nc8cpc7k9
 title: Note Creation Helper
 desc: ''
-updated: 1663910834970
+updated: 1663911196887
 created: 1663792988206
 ---
 
@@ -15,62 +15,63 @@ Extend functionality of the included Dendron special notes (https://wiki.dendron
 ## Sub-Functions
 
 ### Call Keyboard Shortcut - Done
-    Calls the shortcut for New Task Note, New Project Note
+Calls the shortcut for New Task Note, New Project Note
 
-    Reasoning for the "keyboard shortcut to keyboard shortcut" is to have a hook that can be called from other programs/situations
+Reasoning for the "keyboard shortcut to keyboard shortcut" is to have a hook that can be called from other programs/situations
 
-    For now, just have a shortcut that ensures VScode is active window and then calls the note/task shortcut. 
+For now, just have a shortcut that ensures VScode is active window and then calls the note/task shortcut. 
 
-    NOTE: Make a global macro to focus the vscode window and call the command pallate. 
+NOTE: Make a global macro to focus the vscode window and call the command pallate. 
 
-    NOTE: VScode spell checker?
+NOTE: VScode spell checker?
 
-    - Inputs: Keyboard Shortcuts
-    - Outputs: Keyboard Shortcuts
+- Inputs: Keyboard Shortcuts
+- Outputs: Keyboard Shortcuts
 
 #### Recognize shortcut list
-    Modular aspect of the above. "Database" of different keyboard shortcut inputs and outputs. 
+Modular aspect of the above. "Database" of different keyboard shortcut inputs and outputs. 
 
-    Will allow modularity in the future for interaction from other programs/scenarios.
+Will allow modularity in the future for interaction from other programs/scenarios.
 
 ### Grab target file name - Done 
-    Current file name + ".task" or ".note" 
+Current file name + ".task" or ".note" 
 
-    AHK - current window name? Parsed to find and remove the ".md"
+AHK - current window name? Parsed to find and remove the ".md"
 
-    NOTE: AHK activity logger to keep running log of active VS code windows - this function can provide you with last 3-5 windows to pick which one to use. 
+NOTE: AHK activity logger to keep running log of active VS code windows - this function can provide you with last 3-5 windows to pick which one to use. 
 
 
 
 ### Remove ".md", return remainder - Done
-    Useful filename modification snippet for ahk
+Useful filename modification snippet for ahk
 
-    - Inputs: File suffix
-    - Outputs: Everything in the file name before the suffix
+- Inputs: File suffix
+- Outputs: Everything in the file name before the suffix
 
 ### Search full file list for index count - check if exists
-    Counter = 0
+Counter = 0
 
-    Counter=+1
+Counter=+1
 
-    Check if Filename.Task.(Counter) exists
+Check if Filename.Task.(Counter) exists
 
-    If yes, loop
-    If no, return filename
+If yes, loop
+If no, return filename
 
-    Create filename
+Create filename
 
 ### Generate new file
-    Ensure text in "create new note" bar is highlighted
+Ensure text in "create new note" bar is highlighted
 
-    Paste in new note name
+Paste in new note name
+
 ### Provide text input for task or note description
-    Eventually - have this be a VScode input bar at the top of the screen
+Eventually - have this be a VScode input bar at the top of the screen
 
-    For now - ensure the text cursor goes to the right location in the page to type under a header that can be brought up a level 
+For now - ensure the text cursor goes to the right location in the page to type under a header that can be brought up a level 
 
 ### Add text input to new file
-    Eventual Goal - Not currently needed (see above)
+Eventual Goal - Not currently needed (see above)
 
 NOTE: Figure out cleaner formatting for headers - indent each level in the web exported version?
 
