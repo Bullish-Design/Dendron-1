@@ -1,0 +1,15 @@
+version: 1
+imports: []
+schemas:
+  - id: log
+    title: weekly-log
+    parent: root
+    desc: ""
+    children: 
+      - pattern: weekly
+        children:
+          - pattern: "[0-9][0-9]"
+            children: 
+              - pattern: "[0-9][0-9]"
+                desc: "Weekly Log"
+                template: Projects.dendron.templates.weekly-log

@@ -28,7 +28,7 @@ workspace:
             name: Dendron-1
     journal:
         dailyDomain: log
-        name: log
+        name: weekly
         dateFormat: yy.WW
         addBehavior: childOfDomain
     scratch:
