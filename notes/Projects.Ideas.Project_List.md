@@ -2,7 +2,7 @@
 id: k6iookx6frcxqgpflz6k6fa
 title: Project List
 desc: ''
-updated: 1664221493319
+updated: 1664221900793
 created: 1664131496124
 ---
 
@@ -62,6 +62,9 @@ Followup on this: https://www.starterstory.com/explore
 ## Experiement with online businesses
 Provide as much value as possible for free, expand from there
 
+## Online Product Design Community
+This, but for physical product design: https://www.starterstory.com/
+-Kickstarter stories, etc.
 
 # Programming
 ## Android
