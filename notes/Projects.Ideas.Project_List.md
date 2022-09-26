@@ -2,7 +2,7 @@
 id: k6iookx6frcxqgpflz6k6fa
 title: Project List
 desc: ''
-updated: 1664221900793
+updated: 1664222235845
 created: 1664131496124
 ---
 
@@ -50,7 +50,6 @@ Offer tutorials from a product design perspective
 Useful for:
 - 3d Printer Designs
 - Laser Cutter Designs
-- 
 
 
 
