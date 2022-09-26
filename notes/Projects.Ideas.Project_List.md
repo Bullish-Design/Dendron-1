@@ -2,7 +2,7 @@
 id: k6iookx6frcxqgpflz6k6fa
 title: Project List
 desc: ''
-updated: 1664221246215
+updated: 1664221493319
 created: 1664131496124
 ---
 
@@ -63,3 +63,8 @@ Followup on this: https://www.starterstory.com/explore
 Provide as much value as possible for free, expand from there
 
 
+# Programming
+## Android
+### WearOS Expense Tracker
+Press button, spin dial to enter dollar value of expense. Press button to save to Google Sheets
+Optionally add category from preset values - also from google sheet. 
