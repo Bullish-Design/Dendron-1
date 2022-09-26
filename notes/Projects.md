@@ -4,15 +4,26 @@ title: Projects
 desc: ''
 filesaveloc: 'G:\My Drive\Google Drive - Projects'
 priority: 3
-updated: 1663777953247
+updated: 1664155601957
 created: 1663613273356
 ---
 
-{{ TITLE }}
+# Project List:
+## Index
+- [[Automation|Projects.Automation]]
+- [[Business|Projects.Business]]
+- [[BusinessProcesses|Projects.BusinessProcesses]]
+- [[Ideas|Projects.Ideas]]
+- [[Ideas|Projects.Ideas]]
+- [[Ideas|Projects.Ideas]]
+- [[Website|Projects.Website]]
+- [[dendron|Projects.dendron]]
 
-{{ DESC }}
 
-Root of "Project Tree"
+
+
+Previous:
+
 
 Projects
     - Dendron
@@ -36,5 +47,5 @@ Projects
     - Product Category #2
 
     
-Followup on this: https://www.starterstory.com/explore
+
 
