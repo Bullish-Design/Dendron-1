@@ -27,17 +27,17 @@ workspace:
             selfContained: true
             name: Dendron-1
     journal:
-        dailyDomain: daily
-        name: journal
-        dateFormat: y.MM.dd
+        dailyDomain: log
+        name: log
+        dateFormat: yy.WW
         addBehavior: childOfDomain
     scratch:
-        name: scratch
-        dateFormat: y.MM.dd.HHmmss
+        name: notes
+        dateFormat: yyWW-c
         addBehavior: asOwnDomain
     task:
-        name: task
-        dateFormat: y.MM.dd
+        name: tasks
+        dateFormat: yyWW-c
         addBehavior: asOwnDomain
         statusSymbols:
             '': ' '
