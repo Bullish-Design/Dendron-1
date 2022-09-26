@@ -2,7 +2,7 @@
 id: k6iookx6frcxqgpflz6k6fa
 title: Project List
 desc: ''
-updated: 1664222235845
+updated: 1664222846134
 created: 1664131496124
 ---
 
@@ -51,6 +51,11 @@ Useful for:
 - 3d Printer Designs
 - Laser Cutter Designs
 
+## Business Processes built on commonly availble "free" resources
+PDM/PLM/etc built on:
+-Microsoft online suite
+-Google apps
+-etc
 
 
 # Business 
