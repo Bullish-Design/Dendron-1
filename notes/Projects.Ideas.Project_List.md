@@ -2,7 +2,7 @@
 id: k6iookx6frcxqgpflz6k6fa
 title: Project List
 desc: ''
-updated: 1664222846134
+updated: 1664226656763
 created: 1664131496124
 ---
 
@@ -75,3 +75,8 @@ This, but for physical product design: https://www.starterstory.com/
 ### WearOS Expense Tracker
 Press button, spin dial to enter dollar value of expense. Press button to save to Google Sheets
 Optionally add category from preset values - also from google sheet. 
+
+## AI
+### Set up and play with StableDiffusion (Or similar)
+Product design inspiration board
+Marketing material inspiration generator
