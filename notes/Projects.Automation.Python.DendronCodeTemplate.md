@@ -7,7 +7,7 @@ created: 1664225618725
 tags: Code
 version: ''
 filesaveloc: 'G:\My Drive\Google Drive - Projects\Code\Python'
-language: '.py'
+language: .py
 priority: null
 ---
 
