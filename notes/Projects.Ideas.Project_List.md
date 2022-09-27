@@ -2,7 +2,7 @@
 id: k6iookx6frcxqgpflz6k6fa
 title: Project List
 desc: ''
-updated: 1664247559657
+updated: 1664291708575
 created: 1664131496124
 ---
 
@@ -77,7 +77,16 @@ Press button, spin dial to enter dollar value of expense. Press button to save t
 Optionally add category from preset values - also from google sheet. 
 
 ## Web Apps
-Create something similar to what's described here: [[web-clippings\Deployment and infrastructure for a bootstrapped webapp with 150k monthly visits Caspar von Wrede.md]]
+### How to host a website series (static sites, add comment features, add user logins, then up to web apps)
+Build up from rasperry pi on local server: https://www.tomshardware.com/how-to/host-public-website-raspberry-pi
+
+Then on to cloud hosting static site (comparison of hosting providers)
+
+Then on to create something similar to what's described here: [[web-clippings\Deployment and infrastructure for a bootstrapped webapp with 150k monthly visits Caspar von Wrede.md]]
+
+Include comparisons and affiliate links throughout
+
+Bundle into easy to follow instructional guides, build into courses if detailed enough
 
 ### Strong.est web app
 Strongman training program based on friendly competition with yourself
@@ -92,3 +101,10 @@ Strongman training program based on friendly competition with yourself
 ### Set up and play with StableDiffusion (Or similar)
 Product design inspiration board
 Marketing material inspiration generator
+
+
+# Electronics
+## Computer Interfaces
+### DIY Spacemouse for CAD
+Desktop version
+- Shrink into stick on iPad sized version for Shapr3D and Onshape?
