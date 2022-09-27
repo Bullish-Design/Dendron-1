@@ -2,7 +2,7 @@
 id: k6iookx6frcxqgpflz6k6fa
 title: Project List
 desc: ''
-updated: 1664229058670
+updated: 1664247559657
 created: 1664131496124
 ---
 
@@ -79,6 +79,14 @@ Optionally add category from preset values - also from google sheet.
 ## Web Apps
 Create something similar to what's described here: [[web-clippings\Deployment and infrastructure for a bootstrapped webapp with 150k monthly visits Caspar von Wrede.md]]
 
+### Strong.est web app
+Strongman training program based on friendly competition with yourself
+- Drill down into tons of categories so everyone can be the strongest in their category of one. 
+- Or compete on various leaderboards
+- Encourage fun videos recording workouts (top sets only) and weekly workout competition videos (all in one go)
+- Find cheap equipment to make scaled workouts
+    - Sandbags for standard equipment (still affordable, sell custom "hello my name is" style branded bags/swag - Hello my name is "worlds strongest middle age father of three with a replacement hip and high cholesterol in the western Delaware region")
+    - Water jugs, kegs, cardboard boxes, sand filled basketballs, strap farmers carries, strap yoke, SCH 40 pipe, etc.
 
 ## AI
 ### Set up and play with StableDiffusion (Or similar)
