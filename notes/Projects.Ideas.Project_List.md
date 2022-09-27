@@ -2,7 +2,7 @@
 id: k6iookx6frcxqgpflz6k6fa
 title: Project List
 desc: ''
-updated: 1664291708575
+updated: 1664291837272
 created: 1664131496124
 ---
 
@@ -108,3 +108,9 @@ Marketing material inspiration generator
 ### DIY Spacemouse for CAD
 Desktop version
 - Shrink into stick on iPad sized version for Shapr3D and Onshape?
+
+### Custom Keyboards
+Something like this, but specialized for macros: https://www.tomshardware.com/news/raspberry-pi-pico-keyboard-with-oled-keycaps
+
+Silicone overlay for existing macro keyboards for custom applications
+- iPad app to control the procreate keyboard?
