@@ -2,7 +2,7 @@
 id: 9fhn9vrowhcq5p76cqmr0nt
 title: '39'
 desc: ''
-updated: 1664307360187
+updated: 1664317926640
 created: 1664246940724
 traitIds:
   - journalNote
@@ -26,7 +26,8 @@ traitIds:
 - Dendron update broke publishing. 
   - Relaunch to update Dendron to fix? (nope)
   - Will update and refresh NextJS when home
-
+- (Later, on main PC) ran update per: https://nextjs.org/blog/next-12-3
+  - "Update today by running: npm i next@latest"
 ## Wednesday
 
 
