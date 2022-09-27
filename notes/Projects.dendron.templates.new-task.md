@@ -1,11 +1,11 @@
 ---
 id: 2svqmu317nspsjyi34pqcrd
 title: new-task
-tags: Task
 desc: ''
 updated: 1664245364196
 created: 1664245248787
-dueDate: 'TODO Add Due Date'
+tags: Task
+dueDate: TODO Add Due Date
 ---
 
 # Details:
