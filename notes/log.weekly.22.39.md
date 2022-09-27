@@ -2,7 +2,7 @@
 id: 9fhn9vrowhcq5p76cqmr0nt
 title: '39'
 desc: ''
-updated: 1664306201229
+updated: 1664307360187
 created: 1664246940724
 traitIds:
   - journalNote
@@ -24,7 +24,8 @@ traitIds:
 
 ## Tuesday
 - Dendron update broke publishing. 
-  - Relaunch to update Dendron to fix?
+  - Relaunch to update Dendron to fix? (nope)
+  - Will update and refresh NextJS when home
 
 ## Wednesday
 
