@@ -1,0 +1,9 @@
+version: 1
+imports: []
+schemas:
+  - id: Tasks
+    title: new-task
+    parent: root
+    children:
+    - pattern: '*'
+      template: Projects.dendron.templates.new-task

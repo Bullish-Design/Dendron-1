@@ -1,0 +1,13 @@
+version: 1
+imports: []
+schemas:
+  - id: Projects
+    title: new-code
+    parent: root
+    children:
+    - pattern: Automation
+      children:
+        - pattern: "*"
+          children: 
+            - pattern: "*"
+              template: Projects.dendron.templates.new-code

@@ -6,4 +6,4 @@ schemas:
     parent: root
     children:
     - pattern: '*'
-      template: dendron.templates.new-project
+      template: Projects.dendron.templates.new-project

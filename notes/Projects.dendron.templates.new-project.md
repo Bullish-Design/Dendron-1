@@ -2,12 +2,13 @@
 id: 8hehphpx82d587cv63v7miu
 title: new-project
 desc: ''
-updated: 1663690687706
+tags: Project
+updated: 1664245750718
 created: 1663615079004
 filesaveloc: ''
 priority: null
 startDate: 'TODO: date to start'
-endDate: 'TODO: when project ends'
+launchDate: 'TODO: when project ends'
 ---
 
 ## Title
