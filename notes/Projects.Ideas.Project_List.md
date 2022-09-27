@@ -2,7 +2,7 @@
 id: k6iookx6frcxqgpflz6k6fa
 title: Project List
 desc: ''
-updated: 1664291837272
+updated: 1664297243384
 created: 1664131496124
 ---
 
@@ -69,6 +69,8 @@ Provide as much value as possible for free, expand from there
 ## Online Product Design Community
 This, but for physical product design: https://www.starterstory.com/
 -Kickstarter stories, etc.
+
+Youtube version of the above: https://www.screenlace.com/how-asianometry-grew-to-270k-subscribers-on-youtube/
 
 # Programming
 ## Android
