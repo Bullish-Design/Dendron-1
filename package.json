@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Bullish-Design/Dendron-1#readme",
   "dependencies": {
-    "@dendronhq/dendron-cli": "^0.112.1"
+    "@dendronhq/dendron-cli": "^0.112.1",
+    "next": "^12.3.1"
   }
 }
