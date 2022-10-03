@@ -4,20 +4,13 @@ title: Projects
 desc: ''
 filesaveloc: 'G:\My Drive\Google Drive - Projects'
 priority: 3
-updated: 1664155601957
+updated: 1664809465510
 created: 1663613273356
 ---
 
 # Project List:
 ## Index
-- [[Automation|Projects.Automation]]
-- [[Business|Projects.Business]]
-- [[BusinessProcesses|Projects.BusinessProcesses]]
-- [[Ideas|Projects.Ideas]]
-- [[Ideas|Projects.Ideas]]
-- [[Ideas|Projects.Ideas]]
-- [[Website|Projects.Website]]
-- [[dendron|Projects.dendron]]
+
 
 
 
