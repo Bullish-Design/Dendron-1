@@ -2,7 +2,7 @@
 id: olc321agwsvv70gg5v6vm62
 title: Product List
 desc: ''
-updated: 1664485212673
+updated: 1664918587367
 created: 1664131478490
 ---
 # Product Idea List
@@ -21,4 +21,11 @@ Just to see how much it would cost at various volumes: https://teenage.engineeri
 
 Make it in a different size, with slightly different vibes. Maybe a spot for a glass panel. 
 - Quote to show different manufacturing methods, positives/negatives of each, different finishing capabilities, materials, etc. 
+
+## Folding Aluminum Motorcycle Luggage
+Much cheaper shipping. There's no reason for a bike pannier to cost $350. Could offer similar capability at half price, easily. Either flat sheet and customer assembled, or actual folding and some sort of snap open functionality (maybe mounting to the bike locks it together?)
+
+Offer kits to work with major luggage manufacturer brands (givi, sw motech, etc), stay out of the mounting kit itself to minimize sku's and R&D.
+
+
 
