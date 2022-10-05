@@ -77,7 +77,6 @@ preview:
     enableNoteTitleForLink: true
     enableFrontmatterTags: true
     enableHashesForFMTags: false
-    enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
     automaticallyShowPreview: false
@@ -85,7 +84,6 @@ publishing:
     theme: dark
     enableFMTitle: true
     enableNoteTitleForLink: true
-    enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
     copyAssets: true
@@ -99,7 +97,7 @@ publishing:
         title: Dendron
         description: Personal Knowledge Space
     ga:
-      tracking: G-29G5DFDH0G
+        tracking: G-29G5DFDH0G
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
