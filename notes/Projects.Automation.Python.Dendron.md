@@ -1,21 +1,19 @@
 ---
-id: gpwhuswdmcioqmmyo78oryk
-title: Python
+id: 7x1qsalrbdah1oy2f64jgfa
+title: Dendron
 desc: ''
-updated: 1665083863008
-created: 1664230093811
+updated: 1665085033396
+created: 1665083870823
 tags: Project
 filesaveloc: ''
+language: ''
 priority: null
 startDate: 'TODO: date to start'
 launchDate: 'TODO: when project ends'
 ---
 
-
-
-
 ## Title
-Python
+Dendron
 
 ## Description
 
@@ -23,12 +21,21 @@ Python
 
 ## Goal
 <!-- What are you trying to accomplish -->
-
-
+Object Oriented codebase for dendron interactions
 
 
 ## Context
 <!-- Related Projects - Ideally build this into an automated "what's this building on/leading to" filler spot -->
+Capabilities:
+- Onsave Actions
+- OnOpen Actions?
+- Parse Frontmatter
+- Frontmatter based actions
+- Autogen Links/indexes
+- Autogen Folders from frontmatter
+- Autoupdate csv/excel files, etc
+- Autogen doc templates
+
 
 ## Success Criteria
 <!-- milestones for this project -->
