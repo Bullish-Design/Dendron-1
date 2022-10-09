@@ -2,17 +2,17 @@
 id: gghmzmha7gdxmygw2xnkbtk
 title: weekly-log
 desc: ''
-updated: 1664197211607
+updated: 1665262835666
 created: 1664144317479
 ---
 
-# Active Projects:
+# Active Projects
  
 
-# Active Tasks:
+# Active Tasks
 
 
-# Tasks Completed This week:
+# Tasks Completed This week
 
 
 ## Monday
@@ -37,7 +37,7 @@ created: 1664144317479
 
 
 
-# Upcoming Items:
+# Upcoming Items
 
 
 
