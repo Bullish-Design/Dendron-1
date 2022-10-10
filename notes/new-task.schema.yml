@@ -1,9 +1,61 @@
 version: 1
 imports: []
 schemas:
-  - id: Tasks
+  - id: log
+    title: new-task
+    parent: root
+    children:
+    - pattern: 'Tasks'
+      template: Projects.dendron.templates.new-task
+  - id: Projects
     title: new-task
     parent: root
     children:
     - pattern: '*'
-      template: Projects.dendron.templates.new-task
+      children:
+      - pattern: 'Tasks'
+        children:
+        - pattern: '*'
+          template: Projects.dendron.templates.new-task
+  - id: Projects
+    title: new-task
+    parent: root
+    children:
+    - pattern: '*'
+      children:
+      - pattern: '*'
+        children:
+      - pattern: 'Tasks'
+        children:
+        - pattern: '*'
+          template: Projects.dendron.templates.new-task
+  - id: Projects
+    title: new-task
+    parent: root
+    children:
+    - pattern: '*'
+      children:
+      - pattern: '*'
+        children:
+        - pattern: '*'
+          children:
+        - pattern: 'Tasks'
+          children:
+          - pattern: '*'
+            template: Projects.dendron.templates.new-task
+  - id: Projects
+    title: new-task
+    parent: root
+    children:
+    - pattern: '*'
+      children:
+      - pattern: '*'
+        children:
+        - pattern: '*'
+          children:
+          - pattern: '*'
+            children:
+          - pattern: 'Tasks'
+            children:
+            - pattern: '*'
+              template: Projects.dendron.templates.new-task
