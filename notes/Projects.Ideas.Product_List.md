@@ -2,7 +2,7 @@
 id: olc321agwsvv70gg5v6vm62
 title: Product List
 desc: ''
-updated: 1664918587367
+updated: 1665433122900
 created: 1664131478490
 ---
 # Product Idea List
@@ -28,4 +28,11 @@ Much cheaper shipping. There's no reason for a bike pannier to cost $350. Could 
 Offer kits to work with major luggage manufacturer brands (givi, sw motech, etc), stay out of the mounting kit itself to minimize sku's and R&D.
 
 
+
+## Knock off Human Hoist Creeper/Chair
+https://personalpositioningtechnologies.com/
+
+https://patents.google.com/patent/US8777237B2/en
+
+^ Just don't use an actuator. Ropes between front and back axles?
 
