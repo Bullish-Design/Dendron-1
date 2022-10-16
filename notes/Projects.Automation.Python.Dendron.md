@@ -2,7 +2,7 @@
 id: 7x1qsalrbdah1oy2f64jgfa
 title: Dendron
 desc: ''
-updated: 1665942867836
+updated: 1665943941593
 created: 1665083870823
 tags: Project
 filesaveloc: ''
@@ -25,7 +25,7 @@ Object Oriented codebase for Product Development Specific Dendron interactions
     - Easy generation of subfiles for each specific type (template) 
         - Generate in context (from current file) and out of context (from project page)
 - All info is easy accessible from a main overview page (tasks, notes, resources, etc. shown in organized fashion at a glance)
-- Untest
+- Retest
 
 
 ## Context
