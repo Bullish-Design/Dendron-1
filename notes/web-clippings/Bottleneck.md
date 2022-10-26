@@ -191,6 +191,8 @@ Executive leaders have a responsibility at a macro level to align on corporate a
 
 Functional line managers in a digital product organization may no longer direct the day to day efforts of the stream-aligned team - that responsibility falls to the team and the product manager on that team - but they still have tremendous value. Functional managers are responsible for ensuring that they are providing a healthy bench of skilled players to staff those teams. It’s critical that these direct managers are aligned on the roles and responsibilities of product team members to avoid conflict within the product teams.
 
+My Edit - Test
+
 > ...team members must prioritize the results of the team over their individual or departmental needs
 > 
 > \-- [Patrick M. Lencioni](https://www.amazon.com/gp/product/0787960756/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0787960756&linkCode=as2&tag=martinfowlerc-20)
