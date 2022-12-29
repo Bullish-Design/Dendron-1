@@ -1,5 +1,5 @@
 ---
-id: 6n3id60jlhw9j4bqpvxxzem
+id: srh6xstyivbtlhlyts38pbr
 title: DendronCodeTemplate
 desc: ''
 updated: 1664313721503

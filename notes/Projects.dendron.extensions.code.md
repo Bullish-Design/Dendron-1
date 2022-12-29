@@ -1,10 +1,11 @@
 ---
-id: p1df0buskxzp3old2yk302y
+id: wpw1zpgpjvrm5ggotw7lke9
 title: code
 desc: ''
 updated: 1663853782592
 created: 1663812671443
 ---
+
 
 # Coding Extension
 

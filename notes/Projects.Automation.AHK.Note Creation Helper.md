@@ -1,10 +1,11 @@
 ---
-id: vtdphaa71bshn2nc8cpc7k9
+id: sgbh78h20hoyi77beo40tbw
 title: Note Creation Helper
 desc: ''
 updated: 1663911196887
 created: 1663792988206
 ---
+
 
 # Automation Name
 Note Creation Helper

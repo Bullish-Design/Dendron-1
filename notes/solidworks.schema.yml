@@ -1,0 +1,55 @@
+version: 1
+imports: []
+schemas:
+  - id: Projects
+    title: solidworks-template
+    parent: root
+    children:
+    - pattern: '*'
+      children:
+      - pattern: 'Solidworks'
+        children:
+        - pattern: '*'
+          template: Projects.dendron.templates.solidworks
+  - id: Projects
+    title: solidworks-template
+    parent: root
+    children:
+    - pattern: '*'
+      children:
+      - pattern: '*'
+        children:
+      - pattern: 'Solidworks'
+        children:
+        - pattern: '*'
+          template: Projects.dendron.templates.solidworks
+  - id: Projects
+    title: solidworks-template
+    parent: root
+    children:
+    - pattern: '*'
+      children:
+      - pattern: '*'
+        children:
+        - pattern: '*'
+          children:
+        - pattern: 'Solidworks'
+          children:
+          - pattern: '*'
+            template: Projects.dendron.templates.solidworks
+  - id: Projects
+    title: solidworks-template
+    parent: root
+    children:
+    - pattern: '*'
+      children:
+      - pattern: '*'
+        children:
+        - pattern: '*'
+          children:
+          - pattern: '*'
+            children:
+          - pattern: 'Solidworks'
+            children:
+            - pattern: '*'
+              template: Projects.dendron.templates.solidworks

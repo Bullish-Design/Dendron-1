@@ -1,10 +1,11 @@
 ---
-id: ax3qe6sxu7n3xv211xa47me
+id: umjm4n1t2otn5c36sot6jwn
 title: Planning
 desc: ''
 updated: 1663859091120
 created: 1663858665737
 ---
+
 
 # Business Models:
 
