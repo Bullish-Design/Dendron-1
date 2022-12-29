@@ -1,0 +1,3668 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1672324921238,
+      "created": 1672324921238,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "root": {
+      "id": "root",
+      "title": "Bullish Design",
+      "desc": "Design. With horns.",
+      "updated": 1663735986145,
+      "created": 1595961348801,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "a3bba5c2b22e40ad3a99e08cdb6b9811",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "t900xeu4quyqvn6v9adifht",
+        "oau88xk3c6kjkiu7b8f1xvi"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "oau88xk3c6kjkiu7b8f1xvi": {
+      "id": "oau88xk3c6kjkiu7b8f1xvi",
+      "title": "Log",
+      "desc": "",
+      "updated": 1664143284649,
+      "created": 1664143284649,
+      "custom": {},
+      "fname": "log",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "a8fb1d6abd8e55ce64d45548cd5aa5b1",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "qgp16m81n4poxq3pfpczc48",
+        "fs4rmst05uz3n7uew4gg1wt",
+        "okoifz6ntjzz3gms87z0qsx"
+      ],
+      "parent": "root",
+      "data": {},
+      "schema": {
+        "schemaId": "log",
+        "moduleId": "log"
+      }
+    },
+    "okoifz6ntjzz3gms87z0qsx": {
+      "id": "okoifz6ntjzz3gms87z0qsx",
+      "title": "Weekly",
+      "desc": "",
+      "updated": 1664144928823,
+      "created": 1664144928823,
+      "custom": {},
+      "fname": "log.weekly",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "366fac76c20df8ac5af3fee7a508b6ec",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "6zxg59f42440kh68wu6qshm"
+      ],
+      "parent": "oau88xk3c6kjkiu7b8f1xvi",
+      "data": {},
+      "schema": {
+        "schemaId": "vz2r1vczlf3gdx7hdmizzpe",
+        "moduleId": "log"
+      }
+    },
+    "6zxg59f42440kh68wu6qshm": {
+      "id": "6zxg59f42440kh68wu6qshm",
+      "title": "22",
+      "desc": "",
+      "updated": 1664144928823,
+      "created": 1664144928823,
+      "custom": {},
+      "fname": "log.weekly.22",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "94de5c14d599054636aca08b6c725117",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "41hnelz2q16a3tg31s7s63l"
+      ],
+      "parent": "okoifz6ntjzz3gms87z0qsx",
+      "data": {},
+      "schema": {
+        "schemaId": "m0o17804mnzwhmkez68q9yc",
+        "moduleId": "log"
+      }
+    },
+    "41hnelz2q16a3tg31s7s63l": {
+      "id": "41hnelz2q16a3tg31s7s63l",
+      "title": "39",
+      "desc": "",
+      "updated": 1664319831686,
+      "created": 1664246940724,
+      "traitIds": [
+        "journalNote"
+      ],
+      "custom": {},
+      "fname": "log.weekly.22.39",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "f78881a1b1672e557c09043f87a7ea72",
+      "links": [],
+      "anchors": {
+        "active-projects": {
+          "type": "header",
+          "text": "Active Projects:",
+          "value": "active-projects",
+          "line": 11,
+          "column": 0,
+          "depth": 1
+        },
+        "active-tasks": {
+          "type": "header",
+          "text": "Active Tasks:",
+          "value": "active-tasks",
+          "line": 14,
+          "column": 0,
+          "depth": 1
+        },
+        "tasks-completed-this-week": {
+          "type": "header",
+          "text": "Tasks Completed This week:",
+          "value": "tasks-completed-this-week",
+          "line": 17,
+          "column": 0,
+          "depth": 1
+        },
+        "monday": {
+          "type": "header",
+          "text": "Monday",
+          "value": "monday",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "tuesday": {
+          "type": "header",
+          "text": "Tuesday",
+          "value": "tuesday",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        },
+        "wednesday": {
+          "type": "header",
+          "text": "Wednesday",
+          "value": "wednesday",
+          "line": 29,
+          "column": 0,
+          "depth": 2
+        },
+        "thursday": {
+          "type": "header",
+          "text": "Thursday",
+          "value": "thursday",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "friday": {
+          "type": "header",
+          "text": "Friday",
+          "value": "friday",
+          "line": 35,
+          "column": 0,
+          "depth": 2
+        },
+        "saturday": {
+          "type": "header",
+          "text": "Saturday",
+          "value": "saturday",
+          "line": 38,
+          "column": 0,
+          "depth": 2
+        },
+        "sunday": {
+          "type": "header",
+          "text": "Sunday",
+          "value": "sunday",
+          "line": 41,
+          "column": 0,
+          "depth": 2
+        },
+        "upcoming-items": {
+          "type": "header",
+          "text": "Upcoming Items:",
+          "value": "upcoming-items",
+          "line": 45,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "6zxg59f42440kh68wu6qshm",
+      "data": {},
+      "schema": {
+        "schemaId": "ycp8pj8pnypgpw1b3nggjak",
+        "moduleId": "log"
+      }
+    },
+    "fs4rmst05uz3n7uew4gg1wt": {
+      "id": "fs4rmst05uz3n7uew4gg1wt",
+      "title": "Tasks",
+      "desc": "",
+      "updated": 1664143391152,
+      "created": 1664143391152,
+      "custom": {},
+      "fname": "log.Tasks",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "c3e86323059625d4efb065476cd5756c",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "i57ltu99i217bn2bx8h59cx",
+        "u4nn6841p852cotn9wo0uqt"
+      ],
+      "parent": "oau88xk3c6kjkiu7b8f1xvi",
+      "data": {}
+    },
+    "u4nn6841p852cotn9wo0uqt": {
+      "id": "u4nn6841p852cotn9wo0uqt",
+      "title": "2",
+      "desc": "",
+      "updated": 1664319984354,
+      "created": 1664319866537,
+      "status": "Done",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "Done",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "log.Tasks.2",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "ef099e93f380ed49c7f4d29fd8e4f1fe",
+      "links": [],
+      "anchors": {
+        "task": {
+          "type": "header",
+          "text": "Task",
+          "value": "task",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        },
+        "actions": {
+          "type": "header",
+          "text": "Actions",
+          "value": "actions",
+          "line": 15,
+          "column": 0,
+          "depth": 1
+        },
+        "outcome": {
+          "type": "header",
+          "text": "Outcome",
+          "value": "outcome",
+          "line": 22,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "fs4rmst05uz3n7uew4gg1wt",
+      "data": {}
+    },
+    "i57ltu99i217bn2bx8h59cx": {
+      "id": "i57ltu99i217bn2bx8h59cx",
+      "title": "1",
+      "desc": "",
+      "updated": 1664200558385,
+      "created": 1664143391147,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "log.Tasks.1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "589d4572a2f9dc7201533107518db547",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "fs4rmst05uz3n7uew4gg1wt",
+      "data": {}
+    },
+    "qgp16m81n4poxq3pfpczc48": {
+      "id": "qgp16m81n4poxq3pfpczc48",
+      "title": "Notes",
+      "desc": "",
+      "updated": 1664247030569,
+      "created": 1664247030569,
+      "custom": {},
+      "fname": "log.Notes",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "f8252e994f5dc37b1f43ac9f17bd8446",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "7phzmd90nljaljvyi9n9s3m"
+      ],
+      "parent": "oau88xk3c6kjkiu7b8f1xvi",
+      "data": {}
+    },
+    "7phzmd90nljaljvyi9n9s3m": {
+      "id": "7phzmd90nljaljvyi9n9s3m",
+      "title": "1",
+      "desc": "",
+      "updated": 1664247117232,
+      "created": 1664247030565,
+      "custom": {},
+      "fname": "log.Notes.1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "ab80e2ce8646cfe0b1b4710acf6df0e8",
+      "links": [],
+      "anchors": {
+        "note": {
+          "type": "header",
+          "text": "Note",
+          "value": "note",
+          "line": 10,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "qgp16m81n4poxq3pfpczc48",
+      "data": {}
+    },
+    "t900xeu4quyqvn6v9adifht": {
+      "id": "t900xeu4quyqvn6v9adifht",
+      "title": "Projects",
+      "desc": "",
+      "updated": 1664809465510,
+      "created": 1663613273356,
+      "filesaveloc": "G:\\My Drive\\Google Drive - Projects",
+      "priority": 3,
+      "custom": {
+        "filesaveloc": "G:\\My Drive\\Google Drive - Projects",
+        "priority": 3
+      },
+      "fname": "Projects",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "a0de46d4a66050fab058a491aba9ee7e",
+      "links": [],
+      "anchors": {
+        "project-list": {
+          "type": "header",
+          "text": "Project List:",
+          "value": "project-list",
+          "line": 11,
+          "column": 0,
+          "depth": 1
+        },
+        "index": {
+          "type": "header",
+          "text": "Index",
+          "value": "index",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "7oln5eqmmokvnyevsaj1sf5",
+        "mjuevah0ezfuoz6s9hzzsbu",
+        "7gdrfddzmavt5z5lwia48l2",
+        "ixp878ggzn97vdgoghhni85",
+        "z427yobjvuxl20pkvbqm13c",
+        "p6jn2w8ucykyrfwvz5680tg"
+      ],
+      "parent": "root",
+      "data": {},
+      "schema": {
+        "schemaId": "Projects",
+        "moduleId": "Projects"
+      }
+    },
+    "p6jn2w8ucykyrfwvz5680tg": {
+      "id": "p6jn2w8ucykyrfwvz5680tg",
+      "title": "dendron",
+      "desc": "",
+      "updated": 1663778279558,
+      "created": 1663613208885,
+      "custom": {},
+      "fname": "Projects.dendron",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "10c1f277f5bb104d02944655ff3ade93",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "rkn7n2ononp1pqfuo5tp1r6",
+        "r62v8v6riu61fuodonf40gn"
+      ],
+      "parent": "t900xeu4quyqvn6v9adifht",
+      "data": {}
+    },
+    "r62v8v6riu61fuodonf40gn": {
+      "id": "r62v8v6riu61fuodonf40gn",
+      "title": "templates",
+      "desc": "",
+      "updated": 1663622987381,
+      "created": 1663622987381,
+      "custom": {},
+      "fname": "Projects.dendron.templates",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "9431117cfb090417f07898fb3525c259",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "n7pks9b2wmu781ekv3f7wio",
+        "i5k82a569umegxhsvzsnhdz",
+        "2asqyeqs9ffbps79bv59rek",
+        "k7se5teygzquh3yrwhsu329",
+        "djulm5x6xzim0mivh2il2fa",
+        "1bme19zposzitvgr15n9chl"
+      ],
+      "parent": "p6jn2w8ucykyrfwvz5680tg",
+      "data": {}
+    },
+    "1bme19zposzitvgr15n9chl": {
+      "id": "1bme19zposzitvgr15n9chl",
+      "title": "weekly-log",
+      "desc": "",
+      "updated": 1665262835666,
+      "created": 1664144317479,
+      "custom": {},
+      "fname": "Projects.dendron.templates.weekly-log",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "d0d83a3bb46ad790c2166c6f330bf755",
+      "links": [],
+      "anchors": {
+        "active-projects": {
+          "type": "header",
+          "text": "Active Projects",
+          "value": "active-projects",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "active-tasks": {
+          "type": "header",
+          "text": "Active Tasks",
+          "value": "active-tasks",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        },
+        "tasks-completed-this-week": {
+          "type": "header",
+          "text": "Tasks Completed This week",
+          "value": "tasks-completed-this-week",
+          "line": 15,
+          "column": 0,
+          "depth": 1
+        },
+        "monday": {
+          "type": "header",
+          "text": "Monday",
+          "value": "monday",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "tuesday": {
+          "type": "header",
+          "text": "Tuesday",
+          "value": "tuesday",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "wednesday": {
+          "type": "header",
+          "text": "Wednesday",
+          "value": "wednesday",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "thursday": {
+          "type": "header",
+          "text": "Thursday",
+          "value": "thursday",
+          "line": 27,
+          "column": 0,
+          "depth": 2
+        },
+        "friday": {
+          "type": "header",
+          "text": "Friday",
+          "value": "friday",
+          "line": 30,
+          "column": 0,
+          "depth": 2
+        },
+        "saturday": {
+          "type": "header",
+          "text": "Saturday",
+          "value": "saturday",
+          "line": 33,
+          "column": 0,
+          "depth": 2
+        },
+        "sunday": {
+          "type": "header",
+          "text": "Sunday",
+          "value": "sunday",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "upcoming-items": {
+          "type": "header",
+          "text": "Upcoming Items",
+          "value": "upcoming-items",
+          "line": 40,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "r62v8v6riu61fuodonf40gn",
+      "data": {}
+    },
+    "djulm5x6xzim0mivh2il2fa": {
+      "id": "djulm5x6xzim0mivh2il2fa",
+      "title": "solidworks",
+      "desc": "",
+      "updated": 1672162688799,
+      "created": 1672162636842,
+      "templateLoc": null,
+      "custom": {
+        "templateLoc": null
+      },
+      "fname": "Projects.dendron.templates.solidworks",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "68c94a1f90c63443168898515942612f",
+      "links": [],
+      "anchors": {
+        "solidworks-file-location": {
+          "type": "header",
+          "text": "Solidworks File Location",
+          "value": "solidworks-file-location",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "properties": {
+          "type": "header",
+          "text": "Properties",
+          "value": "properties",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        },
+        "features": {
+          "type": "header",
+          "text": "Features",
+          "value": "features",
+          "line": 16,
+          "column": 0,
+          "depth": 1
+        },
+        "dimensions": {
+          "type": "header",
+          "text": "Dimensions",
+          "value": "dimensions",
+          "line": 20,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "r62v8v6riu61fuodonf40gn",
+      "data": {}
+    },
+    "k7se5teygzquh3yrwhsu329": {
+      "id": "k7se5teygzquh3yrwhsu329",
+      "title": "new-task",
+      "desc": "",
+      "updated": 1665262825211,
+      "created": 1664245248787,
+      "tags": "Task",
+      "TrelloListID": null,
+      "TrelloCardID": null,
+      "dueDate": "TODO Add Due Date",
+      "custom": {
+        "TrelloListID": null,
+        "TrelloCardID": null,
+        "dueDate": "TODO Add Due Date"
+      },
+      "fname": "Projects.dendron.templates.new-task",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "3d8be7c55a2fde0622747c0581449bee",
+      "links": [
+        {
+          "type": "frontmatterTag",
+          "from": {
+            "fname": "Projects.dendron.templates.new-task",
+            "id": "k7se5teygzquh3yrwhsu329",
+            "vaultName": "Dendron-1"
+          },
+          "value": "tags.Task",
+          "alias": "Task",
+          "xvault": false,
+          "to": {
+            "fname": "tags.Task"
+          }
+        }
+      ],
+      "anchors": {
+        "task-name": {
+          "type": "header",
+          "text": "Task Name",
+          "value": "task-name",
+          "line": 14,
+          "column": 0,
+          "depth": 1
+        },
+        "details": {
+          "type": "header",
+          "text": "Details:",
+          "value": "details",
+          "line": 16,
+          "column": 0,
+          "depth": 1
+        },
+        "subject": {
+          "type": "header",
+          "text": "Subject:",
+          "value": "subject",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "from": {
+          "type": "header",
+          "text": "From:",
+          "value": "from",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        },
+        "descriptionoverview": {
+          "type": "header",
+          "text": "Description/Overview",
+          "value": "descriptionoverview",
+          "line": 21,
+          "column": 0,
+          "depth": 1
+        },
+        "message": {
+          "type": "header",
+          "text": "Message:",
+          "value": "message",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "outputdeliverables": {
+          "type": "header",
+          "text": "Output/Deliverables",
+          "value": "outputdeliverables",
+          "line": 24,
+          "column": 0,
+          "depth": 1
+        },
+        "description": {
+          "type": "header",
+          "text": "Description",
+          "value": "description",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        },
+        "deliverable-save-location": {
+          "type": "header",
+          "text": "Deliverable Save Location",
+          "value": "deliverable-save-location",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        },
+        "people": {
+          "type": "header",
+          "text": "People",
+          "value": "people",
+          "line": 31,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "r62v8v6riu61fuodonf40gn",
+      "data": {}
+    },
+    "2asqyeqs9ffbps79bv59rek": {
+      "id": "2asqyeqs9ffbps79bv59rek",
+      "title": "new-project",
+      "desc": "",
+      "updated": 1664245750718,
+      "created": 1663615079004,
+      "tags": "Project",
+      "filesaveloc": "",
+      "priority": null,
+      "startDate": "TODO: date to start",
+      "launchDate": "TODO: when project ends",
+      "custom": {
+        "filesaveloc": "",
+        "priority": null,
+        "startDate": "TODO: date to start",
+        "launchDate": "TODO: when project ends"
+      },
+      "fname": "Projects.dendron.templates.new-project",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "3cdd6ced1961842d6938304a02dcc6f6",
+      "links": [
+        {
+          "type": "frontmatterTag",
+          "from": {
+            "fname": "Projects.dendron.templates.new-project",
+            "id": "2asqyeqs9ffbps79bv59rek",
+            "vaultName": "Dendron-1"
+          },
+          "value": "tags.Project",
+          "alias": "Project",
+          "xvault": false,
+          "to": {
+            "fname": "tags.Project"
+          }
+        }
+      ],
+      "anchors": {
+        "title": {
+          "type": "header",
+          "text": "Title",
+          "value": "title",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "description": {
+          "type": "header",
+          "text": "Description",
+          "value": "description",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "goal": {
+          "type": "header",
+          "text": "Goal",
+          "value": "goal",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "context": {
+          "type": "header",
+          "text": "Context",
+          "value": "context",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "success-criteria": {
+          "type": "header",
+          "text": "Success Criteria",
+          "value": "success-criteria",
+          "line": 27,
+          "column": 0,
+          "depth": 2
+        },
+        "sub-projects": {
+          "type": "header",
+          "text": "Sub Projects",
+          "value": "sub-projects",
+          "line": 30,
+          "column": 0,
+          "depth": 2
+        },
+        "log": {
+          "type": "header",
+          "text": "Log",
+          "value": "log",
+          "line": 33,
+          "column": 0,
+          "depth": 2
+        },
+        "outputs": {
+          "type": "header",
+          "text": "Outputs",
+          "value": "outputs",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "tasks": {
+          "type": "header",
+          "text": "Tasks",
+          "value": "tasks",
+          "line": 41,
+          "column": 0,
+          "depth": 2
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 44,
+          "column": 0,
+          "depth": 2
+        },
+        "ideas": {
+          "type": "header",
+          "text": "Ideas",
+          "value": "ideas",
+          "line": 47,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "r62v8v6riu61fuodonf40gn",
+      "data": {}
+    },
+    "i5k82a569umegxhsvzsnhdz": {
+      "id": "i5k82a569umegxhsvzsnhdz",
+      "title": "new-code",
+      "desc": "",
+      "updated": 1665262856891,
+      "created": 1663615079004,
+      "tags": "Code",
+      "filesaveloc": "",
+      "language": "",
+      "priority": null,
+      "custom": {
+        "filesaveloc": "",
+        "language": "",
+        "priority": null
+      },
+      "fname": "Projects.dendron.templates.new-code",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "f792022c434d37404d4619c3511d7a93",
+      "links": [
+        {
+          "type": "frontmatterTag",
+          "from": {
+            "fname": "Projects.dendron.templates.new-code",
+            "id": "i5k82a569umegxhsvzsnhdz",
+            "vaultName": "Dendron-1"
+          },
+          "value": "tags.Code",
+          "alias": "Code",
+          "xvault": false,
+          "to": {
+            "fname": "tags.Code"
+          }
+        }
+      ],
+      "anchors": {
+        "automation-name": {
+          "type": "header",
+          "text": "Automation Name",
+          "value": "automation-name",
+          "line": 13,
+          "column": 0,
+          "depth": 1
+        },
+        "functionality": {
+          "type": "header",
+          "text": "Functionality",
+          "value": "functionality",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "sub-functions": {
+          "type": "header",
+          "text": "Sub-Functions",
+          "value": "sub-functions",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        },
+        "sub-function-name": {
+          "type": "header",
+          "text": "Sub-Function Name",
+          "value": "sub-function-name",
+          "line": 23,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "r62v8v6riu61fuodonf40gn",
+      "data": {}
+    },
+    "n7pks9b2wmu781ekv3f7wio": {
+      "id": "n7pks9b2wmu781ekv3f7wio",
+      "title": "CAD",
+      "desc": "",
+      "updated": 1665262856891,
+      "created": 1663615079004,
+      "tags": "Code",
+      "filesaveloc": "",
+      "language": "",
+      "priority": null,
+      "custom": {
+        "filesaveloc": "",
+        "language": "",
+        "priority": null
+      },
+      "fname": "Projects.dendron.templates.CAD",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "f28d7fb1eec9a93ff0462e259eccb02c",
+      "links": [
+        {
+          "type": "frontmatterTag",
+          "from": {
+            "fname": "Projects.dendron.templates.CAD",
+            "id": "n7pks9b2wmu781ekv3f7wio",
+            "vaultName": "Dendron-1"
+          },
+          "value": "tags.Code",
+          "alias": "Code",
+          "xvault": false,
+          "to": {
+            "fname": "tags.Code"
+          }
+        }
+      ],
+      "anchors": {
+        "file-properties": {
+          "type": "header",
+          "text": "File Properties",
+          "value": "file-properties",
+          "line": 13,
+          "column": 0,
+          "depth": 1
+        },
+        "skeleton-planes": {
+          "type": "header",
+          "text": "Skeleton Planes",
+          "value": "skeleton-planes",
+          "line": 21,
+          "column": 0,
+          "depth": 1
+        },
+        "skeleton-lines": {
+          "type": "header",
+          "text": "Skeleton Lines",
+          "value": "skeleton-lines",
+          "line": 30,
+          "column": 0,
+          "depth": 1
+        },
+        "sub-function-name": {
+          "type": "header",
+          "text": "Sub-Function Name",
+          "value": "sub-function-name",
+          "line": 34,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "r62v8v6riu61fuodonf40gn",
+      "data": {}
+    },
+    "rkn7n2ononp1pqfuo5tp1r6": {
+      "id": "rkn7n2ononp1pqfuo5tp1r6",
+      "title": "extensions",
+      "desc": "",
+      "updated": 1663853773295,
+      "created": 1663812671451,
+      "custom": {},
+      "fname": "Projects.dendron.extensions",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "d8fce98c5899ac88b48cf9643b97b7ff",
+      "links": [],
+      "anchors": {
+        "dendron-extensions": {
+          "type": "header",
+          "text": "Dendron Extensions",
+          "value": "dendron-extensions",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "wpw1zpgpjvrm5ggotw7lke9"
+      ],
+      "parent": "p6jn2w8ucykyrfwvz5680tg",
+      "data": {}
+    },
+    "wpw1zpgpjvrm5ggotw7lke9": {
+      "id": "wpw1zpgpjvrm5ggotw7lke9",
+      "title": "code",
+      "desc": "",
+      "updated": 1663853782592,
+      "created": 1663812671443,
+      "custom": {},
+      "fname": "Projects.dendron.extensions.code",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "4c1571fcbf736d7b745f3f151708ba22",
+      "links": [],
+      "anchors": {
+        "coding-extension": {
+          "type": "header",
+          "text": "Coding Extension",
+          "value": "coding-extension",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "dendron-template-features": {
+          "type": "header",
+          "text": "Dendron Template Features",
+          "value": "dendron-template-features",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "frontmatter": {
+          "type": "header",
+          "text": "Frontmatter",
+          "value": "frontmatter",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "sub-functions": {
+          "type": "header",
+          "text": "Sub-Functions",
+          "value": "sub-functions",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "organize-commentuncomment-by-programming-language": {
+          "type": "header",
+          "text": "Organize Comment/Uncomment by programming language",
+          "value": "organize-commentuncomment-by-programming-language",
+          "line": 19,
+          "column": 0,
+          "depth": 3
+        },
+        "identify-code-blocks-in-md-file": {
+          "type": "header",
+          "text": "Identify Code Blocks in MD file",
+          "value": "identify-code-blocks-in-md-file",
+          "line": 21,
+          "column": 0,
+          "depth": 3
+        },
+        "export-file-to-export-location": {
+          "type": "header",
+          "text": "Export File to export location",
+          "value": "export-file-to-export-location",
+          "line": 23,
+          "column": 0,
+          "depth": 3
+        },
+        "swap-code-block-and-comment-block": {
+          "type": "header",
+          "text": "Swap code block and comment block",
+          "value": "swap-code-block-and-comment-block",
+          "line": 25,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "rkn7n2ononp1pqfuo5tp1r6",
+      "data": {}
+    },
+    "z427yobjvuxl20pkvbqm13c": {
+      "id": "z427yobjvuxl20pkvbqm13c",
+      "title": "Website",
+      "desc": "Overview of Website Project",
+      "updated": 1663687944371,
+      "created": 1663623482342,
+      "filesaveloc": "",
+      "priority": null,
+      "startDate": "TODO: date to start",
+      "endDate": "TODO: when project ends",
+      "custom": {
+        "filesaveloc": "",
+        "priority": null,
+        "startDate": "TODO: date to start",
+        "endDate": "TODO: when project ends"
+      },
+      "fname": "Projects.Website",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "78977c56a602277fc6a6cae32fc60eb6",
+      "links": [],
+      "anchors": {
+        "title": {
+          "type": "header",
+          "text": "Title",
+          "value": "title",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "description": {
+          "type": "header",
+          "text": "Description",
+          "value": "description",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "goal": {
+          "type": "header",
+          "text": "Goal",
+          "value": "goal",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        },
+        "context": {
+          "type": "header",
+          "text": "Context",
+          "value": "context",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        },
+        "success-criteria": {
+          "type": "header",
+          "text": "Success Criteria",
+          "value": "success-criteria",
+          "line": 28,
+          "column": 0,
+          "depth": 2
+        },
+        "sub-projects": {
+          "type": "header",
+          "text": "Sub Projects",
+          "value": "sub-projects",
+          "line": 31,
+          "column": 0,
+          "depth": 2
+        },
+        "log": {
+          "type": "header",
+          "text": "Log",
+          "value": "log",
+          "line": 54,
+          "column": 0,
+          "depth": 2
+        },
+        "outputs": {
+          "type": "header",
+          "text": "Outputs",
+          "value": "outputs",
+          "line": 57,
+          "column": 0,
+          "depth": 2
+        },
+        "tasks": {
+          "type": "header",
+          "text": "Tasks",
+          "value": "tasks",
+          "line": 62,
+          "column": 0,
+          "depth": 2
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 65,
+          "column": 0,
+          "depth": 2
+        },
+        "ideas": {
+          "type": "header",
+          "text": "Ideas",
+          "value": "ideas",
+          "line": 68,
+          "column": 0,
+          "depth": 2
+        },
+        "lookup": {
+          "type": "header",
+          "text": "Lookup",
+          "value": "lookup",
+          "line": 71,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "zph8lmucx9dnbnclw7xznbb"
+      ],
+      "parent": "t900xeu4quyqvn6v9adifht",
+      "data": {}
+    },
+    "zph8lmucx9dnbnclw7xznbb": {
+      "id": "zph8lmucx9dnbnclw7xznbb",
+      "title": "Blog",
+      "desc": "",
+      "updated": 1663736200773,
+      "created": 1663736059118,
+      "custom": {},
+      "fname": "Projects.Website.Blog",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "46d63932d17e4dca08c263b552b23eca",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "z427yobjvuxl20pkvbqm13c",
+      "data": {}
+    },
+    "ixp878ggzn97vdgoghhni85": {
+      "id": "ixp878ggzn97vdgoghhni85",
+      "title": "Ideas",
+      "desc": "",
+      "updated": 1664155675706,
+      "created": 1664155221811,
+      "custom": {},
+      "fname": "Projects.Ideas",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "93333279627550057cc38dcf211eba54",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Projects.Ideas",
+            "id": "ixp878ggzn97vdgoghhni85",
+            "vaultName": "Dendron-1"
+          },
+          "value": "Projects.Ideas.Product_List",
+          "alias": "Product_List",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 13
+            },
+            "end": {
+              "line": 4,
+              "column": 47,
+              "offset": 57
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Projects.Ideas.Product_List"
+          }
+        }
+      ],
+      "anchors": {
+        "index": {
+          "type": "header",
+          "text": "Index",
+          "value": "index",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "9hpg4vndyhqmi9ys5zf9l7r",
+        "khu4vt15zbut9m8exp21oii"
+      ],
+      "parent": "t900xeu4quyqvn6v9adifht",
+      "data": {}
+    },
+    "khu4vt15zbut9m8exp21oii": {
+      "id": "khu4vt15zbut9m8exp21oii",
+      "title": "Project List",
+      "desc": "",
+      "updated": 1664297243384,
+      "created": 1664131496124,
+      "custom": {},
+      "fname": "Projects.Ideas.Project_List",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "c753ab7bb18f457c0a44c4cf850b8cc0",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Projects.Ideas.Project_List",
+            "id": "khu4vt15zbut9m8exp21oii",
+            "vaultName": "Dendron-1"
+          },
+          "value": "web-clippings\\Deployment and infrastructure for a bootstrapped webapp with 150k monthly visits Caspar von Wrede",
+          "position": {
+            "start": {
+              "line": 81,
+              "column": 63,
+              "offset": 2204
+            },
+            "end": {
+              "line": 81,
+              "column": 181,
+              "offset": 2322
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "web-clippings\\Deployment and infrastructure for a bootstrapped webapp with 150k monthly visits Caspar von Wrede"
+          }
+        }
+      ],
+      "anchors": {
+        "projects-to-explore": {
+          "type": "header",
+          "text": "Projects to Explore",
+          "value": "projects-to-explore",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "design": {
+          "type": "header",
+          "text": "Design",
+          "value": "design",
+          "line": 11,
+          "column": 0,
+          "depth": 1
+        },
+        "innovation": {
+          "type": "header",
+          "text": "Innovation",
+          "value": "innovation",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "shapr3d": {
+          "type": "header",
+          "text": "Shapr3d",
+          "value": "shapr3d",
+          "line": 29,
+          "column": 0,
+          "depth": 2
+        },
+        "onshape": {
+          "type": "header",
+          "text": "Onshape",
+          "value": "onshape",
+          "line": 33,
+          "column": 0,
+          "depth": 2
+        },
+        "unreal-engine": {
+          "type": "header",
+          "text": "Unreal Engine",
+          "value": "unreal-engine",
+          "line": 43,
+          "column": 0,
+          "depth": 2
+        },
+        "manufacturing": {
+          "type": "header",
+          "text": "Manufacturing",
+          "value": "manufacturing",
+          "line": 48,
+          "column": 0,
+          "depth": 1
+        },
+        "cnc-programming-in-different-coordinate-systems": {
+          "type": "header",
+          "text": "CNC Programming in different coordinate systems",
+          "value": "cnc-programming-in-different-coordinate-systems",
+          "line": 49,
+          "column": 0,
+          "depth": 2
+        },
+        "business-processes-built-on-commonly-availble-free-resources": {
+          "type": "header",
+          "text": "Business Processes built on commonly availble \"free\" resources",
+          "value": "business-processes-built-on-commonly-availble-free-resources",
+          "line": 54,
+          "column": 0,
+          "depth": 2
+        },
+        "business": {
+          "type": "header",
+          "text": "Business",
+          "value": "business",
+          "line": 61,
+          "column": 0,
+          "depth": 1
+        },
+        "business-typesunderstanding": {
+          "type": "header",
+          "text": "Business Types/Understanding",
+          "value": "business-typesunderstanding",
+          "line": 62,
+          "column": 0,
+          "depth": 2
+        },
+        "experiement-with-online-businesses": {
+          "type": "header",
+          "text": "Experiement with online businesses",
+          "value": "experiement-with-online-businesses",
+          "line": 66,
+          "column": 0,
+          "depth": 2
+        },
+        "online-product-design-community": {
+          "type": "header",
+          "text": "Online Product Design Community",
+          "value": "online-product-design-community",
+          "line": 69,
+          "column": 0,
+          "depth": 2
+        },
+        "programming": {
+          "type": "header",
+          "text": "Programming",
+          "value": "programming",
+          "line": 75,
+          "column": 0,
+          "depth": 1
+        },
+        "android": {
+          "type": "header",
+          "text": "Android",
+          "value": "android",
+          "line": 76,
+          "column": 0,
+          "depth": 2
+        },
+        "wearos-expense-tracker": {
+          "type": "header",
+          "text": "WearOS Expense Tracker",
+          "value": "wearos-expense-tracker",
+          "line": 77,
+          "column": 0,
+          "depth": 3
+        },
+        "web-apps": {
+          "type": "header",
+          "text": "Web Apps",
+          "value": "web-apps",
+          "line": 81,
+          "column": 0,
+          "depth": 2
+        },
+        "how-to-host-a-website-series-static-sites-add-comment-features-add-user-logins-then-up-to-web-apps": {
+          "type": "header",
+          "text": "How to host a website series (static sites, add comment features, add user logins, then up to web apps)",
+          "value": "how-to-host-a-website-series-static-sites-add-comment-features-add-user-logins-then-up-to-web-apps",
+          "line": 82,
+          "column": 0,
+          "depth": 3
+        },
+        "strongest-web-app": {
+          "type": "header",
+          "text": "Strong.est web app",
+          "value": "strongest-web-app",
+          "line": 93,
+          "column": 0,
+          "depth": 3
+        },
+        "ai": {
+          "type": "header",
+          "text": "AI",
+          "value": "ai",
+          "line": 102,
+          "column": 0,
+          "depth": 2
+        },
+        "set-up-and-play-with-stablediffusion-or-similar": {
+          "type": "header",
+          "text": "Set up and play with StableDiffusion (Or similar)",
+          "value": "set-up-and-play-with-stablediffusion-or-similar",
+          "line": 103,
+          "column": 0,
+          "depth": 3
+        },
+        "electronics": {
+          "type": "header",
+          "text": "Electronics",
+          "value": "electronics",
+          "line": 108,
+          "column": 0,
+          "depth": 1
+        },
+        "computer-interfaces": {
+          "type": "header",
+          "text": "Computer Interfaces",
+          "value": "computer-interfaces",
+          "line": 109,
+          "column": 0,
+          "depth": 2
+        },
+        "diy-spacemouse-for-cad": {
+          "type": "header",
+          "text": "DIY Spacemouse for CAD",
+          "value": "diy-spacemouse-for-cad",
+          "line": 110,
+          "column": 0,
+          "depth": 3
+        },
+        "custom-keyboards": {
+          "type": "header",
+          "text": "Custom Keyboards",
+          "value": "custom-keyboards",
+          "line": 114,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "ixp878ggzn97vdgoghhni85",
+      "data": {}
+    },
+    "9hpg4vndyhqmi9ys5zf9l7r": {
+      "id": "9hpg4vndyhqmi9ys5zf9l7r",
+      "title": "Product List",
+      "desc": "",
+      "updated": 1665433122900,
+      "created": 1664131478490,
+      "custom": {},
+      "fname": "Projects.Ideas.Product_List",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "2985bc8e085627eabc5806e2332df1d5",
+      "links": [
+        {
+          "from": {
+            "fname": "Projects.Ideas",
+            "id": "ixp878ggzn97vdgoghhni85",
+            "vaultName": "Dendron-1"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 13
+            },
+            "end": {
+              "line": 4,
+              "column": 47,
+              "offset": 57
+            },
+            "indent": []
+          },
+          "value": "Projects.Ideas.Product_List"
+        }
+      ],
+      "anchors": {
+        "product-idea-list": {
+          "type": "header",
+          "text": "Product Idea List",
+          "value": "product-idea-list",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "idea-name": {
+          "type": "header",
+          "text": "Idea Name",
+          "value": "idea-name",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "product-ideas": {
+          "type": "header",
+          "text": "Product Ideas",
+          "value": "product-ideas",
+          "line": 14,
+          "column": 0,
+          "depth": 1
+        },
+        "reel-to-reel-cnc-fabric-cutter": {
+          "type": "header",
+          "text": "Reel to Reel CNC Fabric Cutter",
+          "value": "reel-to-reel-cnc-fabric-cutter",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "knockoff-teenage-engineering-computer-case": {
+          "type": "header",
+          "text": "Knockoff Teenage-Engineering Computer Case",
+          "value": "knockoff-teenage-engineering-computer-case",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        },
+        "folding-aluminum-motorcycle-luggage": {
+          "type": "header",
+          "text": "Folding Aluminum Motorcycle Luggage",
+          "value": "folding-aluminum-motorcycle-luggage",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        },
+        "knock-off-human-hoist-creeperchair": {
+          "type": "header",
+          "text": "Knock off Human Hoist Creeper/Chair",
+          "value": "knock-off-human-hoist-creeperchair",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "ixp878ggzn97vdgoghhni85",
+      "data": {}
+    },
+    "7gdrfddzmavt5z5lwia48l2": {
+      "id": "7gdrfddzmavt5z5lwia48l2",
+      "title": "BusinessProcesses",
+      "desc": "",
+      "updated": 1672163248938,
+      "created": 1663761695461,
+      "custom": {},
+      "fname": "Projects.BusinessProcesses",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "fbbba617752ca4557ac1db5751f58a42",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Projects.BusinessProcesses",
+            "id": "7gdrfddzmavt5z5lwia48l2",
+            "vaultName": "Dendron-1"
+          },
+          "value": "Projects.BusinessProcesses.Department Request System",
+          "alias": "Department Request System",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 13
+            },
+            "end": {
+              "line": 4,
+              "column": 85,
+              "offset": 95
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Projects.BusinessProcesses.Department Request System"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Projects.BusinessProcesses",
+            "id": "7gdrfddzmavt5z5lwia48l2",
+            "vaultName": "Dendron-1"
+          },
+          "value": "Projects.BusinessProcesses.ECR System",
+          "alias": "ECR System",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 98
+            },
+            "end": {
+              "line": 5,
+              "column": 55,
+              "offset": 150
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Projects.BusinessProcesses.ECR System"
+          }
+        }
+      ],
+      "anchors": {
+        "index": {
+          "type": "header",
+          "text": "Index",
+          "value": "index",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "bxe7jlekbezprtzsevtgm43",
+        "jh467kmhnayt9t3l7rgi5tz"
+      ],
+      "parent": "t900xeu4quyqvn6v9adifht",
+      "data": {}
+    },
+    "jh467kmhnayt9t3l7rgi5tz": {
+      "id": "jh467kmhnayt9t3l7rgi5tz",
+      "title": "ECR System",
+      "desc": "",
+      "updated": 1663761853674,
+      "created": 1663761662899,
+      "filesaveloc": "",
+      "priority": null,
+      "startDate": "TODO: date to start",
+      "endDate": "TODO: when project ends",
+      "custom": {
+        "filesaveloc": "",
+        "priority": null,
+        "startDate": "TODO: date to start",
+        "endDate": "TODO: when project ends"
+      },
+      "fname": "Projects.BusinessProcesses.ECR System",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "ff56dcca1231ff87ddfaa1fd99313cd1",
+      "links": [
+        {
+          "from": {
+            "fname": "Projects.BusinessProcesses",
+            "id": "7gdrfddzmavt5z5lwia48l2",
+            "vaultName": "Dendron-1"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 3,
+              "offset": 98
+            },
+            "end": {
+              "line": 5,
+              "column": 55,
+              "offset": 150
+            },
+            "indent": []
+          },
+          "value": "Projects.BusinessProcesses.ECR System"
+        }
+      ],
+      "anchors": {
+        "title": {
+          "type": "header",
+          "text": "Title",
+          "value": "title",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "description": {
+          "type": "header",
+          "text": "Description",
+          "value": "description",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "goal": {
+          "type": "header",
+          "text": "Goal",
+          "value": "goal",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "context": {
+          "type": "header",
+          "text": "Context",
+          "value": "context",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        },
+        "success-criteria": {
+          "type": "header",
+          "text": "Success Criteria",
+          "value": "success-criteria",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        },
+        "sub-projects": {
+          "type": "header",
+          "text": "Sub Projects",
+          "value": "sub-projects",
+          "line": 29,
+          "column": 0,
+          "depth": 2
+        },
+        "log": {
+          "type": "header",
+          "text": "Log",
+          "value": "log",
+          "line": 32,
+          "column": 0,
+          "depth": 2
+        },
+        "outputs": {
+          "type": "header",
+          "text": "Outputs",
+          "value": "outputs",
+          "line": 35,
+          "column": 0,
+          "depth": 2
+        },
+        "tasks": {
+          "type": "header",
+          "text": "Tasks",
+          "value": "tasks",
+          "line": 40,
+          "column": 0,
+          "depth": 2
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 43,
+          "column": 0,
+          "depth": 2
+        },
+        "ideas": {
+          "type": "header",
+          "text": "Ideas",
+          "value": "ideas",
+          "line": 46,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "7gdrfddzmavt5z5lwia48l2",
+      "data": {}
+    },
+    "bxe7jlekbezprtzsevtgm43": {
+      "id": "bxe7jlekbezprtzsevtgm43",
+      "title": "Department Request System",
+      "desc": "",
+      "updated": 1663761771773,
+      "created": 1663761771773,
+      "custom": {},
+      "fname": "Projects.BusinessProcesses.Department Request System",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "bfdc7bc5f29daef8d7c9ce9a57f367f7",
+      "links": [
+        {
+          "from": {
+            "fname": "Projects.BusinessProcesses",
+            "id": "7gdrfddzmavt5z5lwia48l2",
+            "vaultName": "Dendron-1"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 13
+            },
+            "end": {
+              "line": 4,
+              "column": 85,
+              "offset": 95
+            },
+            "indent": []
+          },
+          "value": "Projects.BusinessProcesses.Department Request System"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "7gdrfddzmavt5z5lwia48l2",
+      "data": {}
+    },
+    "mjuevah0ezfuoz6s9hzzsbu": {
+      "id": "mjuevah0ezfuoz6s9hzzsbu",
+      "title": "Business",
+      "desc": "",
+      "updated": 1664155652457,
+      "created": 1663900693645,
+      "custom": {},
+      "fname": "Projects.Business",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "8ca604957daef1bda428071a63496e02",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Projects.Business",
+            "id": "mjuevah0ezfuoz6s9hzzsbu",
+            "vaultName": "Dendron-1"
+          },
+          "value": "Projects.Business.Planning",
+          "alias": "Planning",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 13
+            },
+            "end": {
+              "line": 4,
+              "column": 42,
+              "offset": 52
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Projects.Business.Planning"
+          }
+        }
+      ],
+      "anchors": {
+        "index": {
+          "type": "header",
+          "text": "Index",
+          "value": "index",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "umjm4n1t2otn5c36sot6jwn"
+      ],
+      "parent": "t900xeu4quyqvn6v9adifht",
+      "data": {}
+    },
+    "umjm4n1t2otn5c36sot6jwn": {
+      "id": "umjm4n1t2otn5c36sot6jwn",
+      "title": "Planning",
+      "desc": "",
+      "updated": 1663859091120,
+      "created": 1663858665737,
+      "custom": {},
+      "fname": "Projects.Business.Planning",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "f8bb62887bb4b93c436978c523fb3d29",
+      "links": [
+        {
+          "from": {
+            "fname": "Projects.Business",
+            "id": "mjuevah0ezfuoz6s9hzzsbu",
+            "vaultName": "Dendron-1"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 3,
+              "offset": 13
+            },
+            "end": {
+              "line": 4,
+              "column": 42,
+              "offset": 52
+            },
+            "indent": []
+          },
+          "value": "Projects.Business.Planning"
+        }
+      ],
+      "anchors": {
+        "business-models": {
+          "type": "header",
+          "text": "Business Models:",
+          "value": "business-models",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "customer-development-model": {
+          "type": "header",
+          "text": "Customer Development Model",
+          "value": "customer-development-model",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "mjuevah0ezfuoz6s9hzzsbu",
+      "data": {}
+    },
+    "7oln5eqmmokvnyevsaj1sf5": {
+      "id": "7oln5eqmmokvnyevsaj1sf5",
+      "title": "Automation",
+      "desc": "",
+      "updated": 1664155627821,
+      "created": 1663736355962,
+      "custom": {},
+      "fname": "Projects.Automation",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "3ff8994a2ed6f913d834beda1b4a6738",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "Projects.Automation",
+            "id": "7oln5eqmmokvnyevsaj1sf5",
+            "vaultName": "Dendron-1"
+          },
+          "value": "Projects.Automation.AHK",
+          "alias": "AHK",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 181
+            },
+            "end": {
+              "line": 9,
+              "column": 34,
+              "offset": 212
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "Projects.Automation.AHK"
+          }
+        }
+      ],
+      "anchors": {
+        "index": {
+          "type": "header",
+          "text": "Index",
+          "value": "index",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "8jtepud2k2y877ns99o5ny8",
+        "ny4kgnce0ic63rcv2khbr38",
+        "iiarz11zzpdnj4y6axlrjra"
+      ],
+      "parent": "t900xeu4quyqvn6v9adifht",
+      "data": {}
+    },
+    "iiarz11zzpdnj4y6axlrjra": {
+      "id": "iiarz11zzpdnj4y6axlrjra",
+      "title": "Solidworks",
+      "desc": "",
+      "updated": 1665953453053,
+      "created": 1665947610322,
+      "tags": "Project",
+      "filesaveloc": "",
+      "priority": null,
+      "startDate": "TODO: date to start",
+      "launchDate": "TODO: when project ends",
+      "custom": {
+        "filesaveloc": "",
+        "priority": null,
+        "startDate": "TODO: date to start",
+        "launchDate": "TODO: when project ends"
+      },
+      "fname": "Projects.Automation.Solidworks",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "e5d48c5ad08a7e7eb2d7c2a137b5fcc3",
+      "links": [
+        {
+          "type": "frontmatterTag",
+          "from": {
+            "fname": "Projects.Automation.Solidworks",
+            "id": "iiarz11zzpdnj4y6axlrjra",
+            "vaultName": "Dendron-1"
+          },
+          "value": "tags.Project",
+          "alias": "Project",
+          "xvault": false,
+          "to": {
+            "fname": "tags.Project"
+          }
+        }
+      ],
+      "anchors": {
+        "title": {
+          "type": "header",
+          "text": "Title",
+          "value": "title",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "description": {
+          "type": "header",
+          "text": "Description",
+          "value": "description",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "goal": {
+          "type": "header",
+          "text": "Goal",
+          "value": "goal",
+          "line": 42,
+          "column": 0,
+          "depth": 2
+        },
+        "context": {
+          "type": "header",
+          "text": "Context",
+          "value": "context",
+          "line": 50,
+          "column": 0,
+          "depth": 2
+        },
+        "success-criteria": {
+          "type": "header",
+          "text": "Success Criteria",
+          "value": "success-criteria",
+          "line": 53,
+          "column": 0,
+          "depth": 2
+        },
+        "sub-projects": {
+          "type": "header",
+          "text": "Sub Projects",
+          "value": "sub-projects",
+          "line": 56,
+          "column": 0,
+          "depth": 2
+        },
+        "log": {
+          "type": "header",
+          "text": "Log",
+          "value": "log",
+          "line": 59,
+          "column": 0,
+          "depth": 2
+        },
+        "outputs": {
+          "type": "header",
+          "text": "Outputs",
+          "value": "outputs",
+          "line": 62,
+          "column": 0,
+          "depth": 2
+        },
+        "tasks": {
+          "type": "header",
+          "text": "Tasks",
+          "value": "tasks",
+          "line": 67,
+          "column": 0,
+          "depth": 2
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 70,
+          "column": 0,
+          "depth": 2
+        },
+        "ideas": {
+          "type": "header",
+          "text": "Ideas",
+          "value": "ideas",
+          "line": 73,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "73dm0w0g63bhgxgfli2ugjf"
+      ],
+      "parent": "7oln5eqmmokvnyevsaj1sf5",
+      "data": {}
+    },
+    "73dm0w0g63bhgxgfli2ugjf": {
+      "id": "73dm0w0g63bhgxgfli2ugjf",
+      "title": "GenerateFile",
+      "desc": "",
+      "updated": 1665950827392,
+      "created": 1665947790805,
+      "tags": "Project",
+      "filesaveloc": "",
+      "priority": null,
+      "startDate": "TODO: date to start",
+      "launchDate": "TODO: when project ends",
+      "custom": {
+        "filesaveloc": "",
+        "priority": null,
+        "startDate": "TODO: date to start",
+        "launchDate": "TODO: when project ends"
+      },
+      "fname": "Projects.Automation.Solidworks.GenerateFile",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "4a116d21af031c45dae2157cdace6891",
+      "links": [
+        {
+          "type": "frontmatterTag",
+          "from": {
+            "fname": "Projects.Automation.Solidworks.GenerateFile",
+            "id": "73dm0w0g63bhgxgfli2ugjf",
+            "vaultName": "Dendron-1"
+          },
+          "value": "tags.Project",
+          "alias": "Project",
+          "xvault": false,
+          "to": {
+            "fname": "tags.Project"
+          }
+        }
+      ],
+      "anchors": {
+        "title": {
+          "type": "header",
+          "text": "Title",
+          "value": "title",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "description": {
+          "type": "header",
+          "text": "Description",
+          "value": "description",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "goal": {
+          "type": "header",
+          "text": "Goal",
+          "value": "goal",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "context": {
+          "type": "header",
+          "text": "Context",
+          "value": "context",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "success-criteria": {
+          "type": "header",
+          "text": "Success Criteria",
+          "value": "success-criteria",
+          "line": 27,
+          "column": 0,
+          "depth": 2
+        },
+        "sub-projects": {
+          "type": "header",
+          "text": "Sub Projects",
+          "value": "sub-projects",
+          "line": 30,
+          "column": 0,
+          "depth": 2
+        },
+        "log": {
+          "type": "header",
+          "text": "Log",
+          "value": "log",
+          "line": 33,
+          "column": 0,
+          "depth": 2
+        },
+        "outputs": {
+          "type": "header",
+          "text": "Outputs",
+          "value": "outputs",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "tasks": {
+          "type": "header",
+          "text": "Tasks",
+          "value": "tasks",
+          "line": 41,
+          "column": 0,
+          "depth": 2
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 44,
+          "column": 0,
+          "depth": 2
+        },
+        "ideas": {
+          "type": "header",
+          "text": "Ideas",
+          "value": "ideas",
+          "line": 47,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "iiarz11zzpdnj4y6axlrjra",
+      "data": {}
+    },
+    "ny4kgnce0ic63rcv2khbr38": {
+      "id": "ny4kgnce0ic63rcv2khbr38",
+      "title": "Python",
+      "desc": "",
+      "updated": 1665083863008,
+      "created": 1664230093811,
+      "tags": "Project",
+      "filesaveloc": "",
+      "priority": null,
+      "startDate": "TODO: date to start",
+      "launchDate": "TODO: when project ends",
+      "custom": {
+        "filesaveloc": "",
+        "priority": null,
+        "startDate": "TODO: date to start",
+        "launchDate": "TODO: when project ends"
+      },
+      "fname": "Projects.Automation.Python",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "3fb285eef09121958948004d86cc257c",
+      "links": [
+        {
+          "type": "frontmatterTag",
+          "from": {
+            "fname": "Projects.Automation.Python",
+            "id": "ny4kgnce0ic63rcv2khbr38",
+            "vaultName": "Dendron-1"
+          },
+          "value": "tags.Project",
+          "alias": "Project",
+          "xvault": false,
+          "to": {
+            "fname": "tags.Project"
+          }
+        }
+      ],
+      "anchors": {
+        "title": {
+          "type": "header",
+          "text": "Title",
+          "value": "title",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "description": {
+          "type": "header",
+          "text": "Description",
+          "value": "description",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "goal": {
+          "type": "header",
+          "text": "Goal",
+          "value": "goal",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "context": {
+          "type": "header",
+          "text": "Context",
+          "value": "context",
+          "line": 30,
+          "column": 0,
+          "depth": 2
+        },
+        "success-criteria": {
+          "type": "header",
+          "text": "Success Criteria",
+          "value": "success-criteria",
+          "line": 33,
+          "column": 0,
+          "depth": 2
+        },
+        "sub-projects": {
+          "type": "header",
+          "text": "Sub Projects",
+          "value": "sub-projects",
+          "line": 36,
+          "column": 0,
+          "depth": 2
+        },
+        "log": {
+          "type": "header",
+          "text": "Log",
+          "value": "log",
+          "line": 39,
+          "column": 0,
+          "depth": 2
+        },
+        "outputs": {
+          "type": "header",
+          "text": "Outputs",
+          "value": "outputs",
+          "line": 42,
+          "column": 0,
+          "depth": 2
+        },
+        "tasks": {
+          "type": "header",
+          "text": "Tasks",
+          "value": "tasks",
+          "line": 47,
+          "column": 0,
+          "depth": 2
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 50,
+          "column": 0,
+          "depth": 2
+        },
+        "ideas": {
+          "type": "header",
+          "text": "Ideas",
+          "value": "ideas",
+          "line": 53,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "aiqcjw8anmh43kfwbs1f09v"
+      ],
+      "parent": "7oln5eqmmokvnyevsaj1sf5",
+      "data": {}
+    },
+    "aiqcjw8anmh43kfwbs1f09v": {
+      "id": "aiqcjw8anmh43kfwbs1f09v",
+      "title": "Dendron",
+      "desc": "",
+      "updated": 1665946650758,
+      "created": 1665083870823,
+      "tags": "Project",
+      "filesaveloc": "",
+      "language": "",
+      "priority": null,
+      "startDate": "TODO: date to start",
+      "launchDate": "TODO: when project ends",
+      "custom": {
+        "filesaveloc": "",
+        "language": "",
+        "priority": null,
+        "startDate": "TODO: date to start",
+        "launchDate": "TODO: when project ends"
+      },
+      "fname": "Projects.Automation.Python.Dendron",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "1ce776b9f6c9228eab0837a116506a1c",
+      "links": [
+        {
+          "type": "frontmatterTag",
+          "from": {
+            "fname": "Projects.Automation.Python.Dendron",
+            "id": "aiqcjw8anmh43kfwbs1f09v",
+            "vaultName": "Dendron-1"
+          },
+          "value": "tags.Project",
+          "alias": "Project",
+          "xvault": false,
+          "to": {
+            "fname": "tags.Project"
+          }
+        }
+      ],
+      "anchors": {
+        "title": {
+          "type": "header",
+          "text": "Title",
+          "value": "title",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "description": {
+          "type": "header",
+          "text": "Description",
+          "value": "description",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "goal": {
+          "type": "header",
+          "text": "Goal",
+          "value": "goal",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "context": {
+          "type": "header",
+          "text": "Context",
+          "value": "context",
+          "line": 31,
+          "column": 0,
+          "depth": 2
+        },
+        "success-criteria": {
+          "type": "header",
+          "text": "Success Criteria",
+          "value": "success-criteria",
+          "line": 44,
+          "column": 0,
+          "depth": 2
+        },
+        "sub-projects": {
+          "type": "header",
+          "text": "Sub Projects",
+          "value": "sub-projects",
+          "line": 47,
+          "column": 0,
+          "depth": 2
+        },
+        "log": {
+          "type": "header",
+          "text": "Log",
+          "value": "log",
+          "line": 53,
+          "column": 0,
+          "depth": 2
+        },
+        "outputs": {
+          "type": "header",
+          "text": "Outputs",
+          "value": "outputs",
+          "line": 56,
+          "column": 0,
+          "depth": 2
+        },
+        "tasks": {
+          "type": "header",
+          "text": "Tasks",
+          "value": "tasks",
+          "line": 61,
+          "column": 0,
+          "depth": 2
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 64,
+          "column": 0,
+          "depth": 2
+        },
+        "ideas": {
+          "type": "header",
+          "text": "Ideas",
+          "value": "ideas",
+          "line": 67,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "srh6xstyivbtlhlyts38pbr",
+        "f8zbyvnmkfipj3j0yave3cm",
+        "g4h1vnzx8y0jsllh3usf7u8",
+        "g1qs1oh21fr7q0fmvjovxgq"
+      ],
+      "parent": "ny4kgnce0ic63rcv2khbr38",
+      "data": {}
+    },
+    "g1qs1oh21fr7q0fmvjovxgq": {
+      "id": "g1qs1oh21fr7q0fmvjovxgq",
+      "title": "Tasks",
+      "desc": "",
+      "updated": 1665263517108,
+      "created": 1665263517108,
+      "custom": {},
+      "fname": "Projects.Automation.Python.Dendron.Tasks",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "3092de23f41d23c388c42495eb1b01b1",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "a5jfir0d92z34i7asq0zk9n",
+        "m0heejzu23i0lexutgxd5ew"
+      ],
+      "parent": "aiqcjw8anmh43kfwbs1f09v",
+      "data": {}
+    },
+    "m0heejzu23i0lexutgxd5ew": {
+      "id": "m0heejzu23i0lexutgxd5ew",
+      "title": "2",
+      "desc": "",
+      "updated": 1665413673514,
+      "created": 1665413673514,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "TODO": "2",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": "",
+        "TODO": "2"
+      },
+      "fname": "Projects.Automation.Python.Dendron.Tasks.2",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "3ecc132f4ece53f966bb024649d5ad3f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "g1qs1oh21fr7q0fmvjovxgq",
+      "data": {}
+    },
+    "a5jfir0d92z34i7asq0zk9n": {
+      "id": "a5jfir0d92z34i7asq0zk9n",
+      "title": "1",
+      "desc": "",
+      "updated": 1665263444066,
+      "created": 1665263444066,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "Projects.Automation.Python.Dendron.Tasks.1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "ed0c3237a548d1ae24f7012ca52a3f01",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "g1qs1oh21fr7q0fmvjovxgq",
+      "data": {}
+    },
+    "g4h1vnzx8y0jsllh3usf7u8": {
+      "id": "g4h1vnzx8y0jsllh3usf7u8",
+      "title": "Notes",
+      "desc": "",
+      "updated": 1665265059682,
+      "created": 1665265059682,
+      "custom": {},
+      "fname": "Projects.Automation.Python.Dendron.Notes",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "71df31ea6bf038ac72eaac0eec6d7656",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "nz5uqpq1vub0jnwu05hr5k6"
+      ],
+      "parent": "aiqcjw8anmh43kfwbs1f09v",
+      "data": {}
+    },
+    "nz5uqpq1vub0jnwu05hr5k6": {
+      "id": "nz5uqpq1vub0jnwu05hr5k6",
+      "title": "1",
+      "desc": "",
+      "updated": 1665264448423,
+      "created": 1665264312816,
+      "custom": {},
+      "fname": "Projects.Automation.Python.Dendron.Notes.1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "354e4c6fa127e9a21f6f44a62d5a25be",
+      "links": [],
+      "anchors": {
+        "title": {
+          "type": "header",
+          "text": "Title",
+          "value": "title",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 11,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "g4h1vnzx8y0jsllh3usf7u8",
+      "data": {}
+    },
+    "f8zbyvnmkfipj3j0yave3cm": {
+      "id": "f8zbyvnmkfipj3j0yave3cm",
+      "title": "GenerateLinks",
+      "desc": "",
+      "updated": 1665274576670,
+      "created": 1664327826894,
+      "tags": "Code",
+      "filesaveloc": "",
+      "language": "",
+      "priority": null,
+      "custom": {
+        "filesaveloc": "",
+        "language": "",
+        "priority": null
+      },
+      "fname": "Projects.Automation.Python.Dendron.GenerateLinks",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "3b974a2a2f63981a4ef86210233a218a",
+      "links": [
+        {
+          "type": "frontmatterTag",
+          "from": {
+            "fname": "Projects.Automation.Python.Dendron.GenerateLinks",
+            "id": "f8zbyvnmkfipj3j0yave3cm",
+            "vaultName": "Dendron-1"
+          },
+          "value": "tags.Code",
+          "alias": "Code",
+          "xvault": false,
+          "to": {
+            "fname": "tags.Code"
+          }
+        }
+      ],
+      "anchors": {
+        "automation-name": {
+          "type": "header",
+          "text": "Automation Name",
+          "value": "automation-name",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        },
+        "functionality": {
+          "type": "header",
+          "text": "Functionality",
+          "value": "functionality",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "sub-functions": {
+          "type": "header",
+          "text": "Sub-Functions",
+          "value": "sub-functions",
+          "line": 22,
+          "column": 0,
+          "depth": 2
+        },
+        "sub-function-name": {
+          "type": "header",
+          "text": "Sub-Function Name",
+          "value": "sub-function-name",
+          "line": 25,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "aiqcjw8anmh43kfwbs1f09v",
+      "data": {}
+    },
+    "srh6xstyivbtlhlyts38pbr": {
+      "id": "srh6xstyivbtlhlyts38pbr",
+      "title": "DendronCodeTemplate",
+      "desc": "",
+      "updated": 1664313721503,
+      "created": 1664225618725,
+      "tags": "Code",
+      "version": "",
+      "filesaveloc": "G:\\My Drive\\Google Drive - Projects\\Code\\Python",
+      "language": ".py",
+      "priority": null,
+      "custom": {
+        "version": "",
+        "filesaveloc": "G:\\My Drive\\Google Drive - Projects\\Code\\Python",
+        "language": ".py",
+        "priority": null
+      },
+      "fname": "Projects.Automation.Python.Dendron.DendronCodeTemplate",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "bc38c0c8772784e50e05bb829641a283",
+      "links": [
+        {
+          "type": "frontmatterTag",
+          "from": {
+            "fname": "Projects.Automation.Python.Dendron.DendronCodeTemplate",
+            "id": "srh6xstyivbtlhlyts38pbr",
+            "vaultName": "Dendron-1"
+          },
+          "value": "tags.Code",
+          "alias": "Code",
+          "xvault": false,
+          "to": {
+            "fname": "tags.Code"
+          }
+        }
+      ],
+      "anchors": {
+        "overview": {
+          "type": "header",
+          "text": "Overview",
+          "value": "overview",
+          "line": 13,
+          "column": 0,
+          "depth": 1
+        },
+        "sub-functions": {
+          "type": "header",
+          "text": "Sub-Functions",
+          "value": "sub-functions",
+          "line": 17,
+          "column": 0,
+          "depth": 1
+        },
+        "open-file": {
+          "type": "header",
+          "text": "Open File",
+          "value": "open-file",
+          "line": 21,
+          "column": 0,
+          "depth": 2
+        },
+        "code-blockcomment-switcheroo": {
+          "type": "header",
+          "text": "Code Block/Comment switcheroo",
+          "value": "code-blockcomment-switcheroo",
+          "line": 38,
+          "column": 0,
+          "depth": 2
+        },
+        "save-output": {
+          "type": "header",
+          "text": "Save output",
+          "value": "save-output",
+          "line": 60,
+          "column": 0,
+          "depth": 2
+        },
+        "recognize-frontmatter-and-extract-data-to-array": {
+          "type": "header",
+          "text": "Recognize frontmatter and extract data to array",
+          "value": "recognize-frontmatter-and-extract-data-to-array",
+          "line": 73,
+          "column": 0,
+          "depth": 2
+        },
+        "link-to-output": {
+          "type": "header",
+          "text": "Link to Output",
+          "value": "link-to-output",
+          "line": 84,
+          "column": 0,
+          "depth": 2
+        },
+        "language-adaptability": {
+          "type": "header",
+          "text": "Language adaptability",
+          "value": "language-adaptability",
+          "line": 94,
+          "column": 0,
+          "depth": 2
+        },
+        "block-import": {
+          "type": "header",
+          "text": "Block Import",
+          "value": "block-import",
+          "line": 99,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "aiqcjw8anmh43kfwbs1f09v",
+      "data": {}
+    },
+    "8jtepud2k2y877ns99o5ny8": {
+      "id": "8jtepud2k2y877ns99o5ny8",
+      "title": "AHK",
+      "desc": "",
+      "updated": 1664244654128,
+      "created": 1663736355962,
+      "custom": {},
+      "fname": "Projects.Automation.AHK",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "52b06661bbf4e4a1518f16af6ce81aff",
+      "links": [
+        {
+          "from": {
+            "fname": "Projects.Automation",
+            "id": "7oln5eqmmokvnyevsaj1sf5",
+            "vaultName": "Dendron-1"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 3,
+              "offset": 181
+            },
+            "end": {
+              "line": 9,
+              "column": 34,
+              "offset": 212
+            },
+            "indent": []
+          },
+          "value": "Projects.Automation.AHK"
+        }
+      ],
+      "anchors": {
+        "dendron-macros": {
+          "type": "header",
+          "text": "Dendron macros:",
+          "value": "dendron-macros",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "note-creation-helper": {
+          "type": "header",
+          "text": "Note creation helper",
+          "value": "note-creation-helper",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "et0i96heteukv7m12mwdwbw",
+        "sgbh78h20hoyi77beo40tbw",
+        "g9zv14g45j01ktu4q8wlg0d",
+        "lwmj6wvx0mm4s24hvp06k04"
+      ],
+      "parent": "7oln5eqmmokvnyevsaj1sf5",
+      "data": {}
+    },
+    "lwmj6wvx0mm4s24hvp06k04": {
+      "id": "lwmj6wvx0mm4s24hvp06k04",
+      "title": "Send to Dendron",
+      "desc": "",
+      "updated": 1663736763980,
+      "created": 1663736355957,
+      "filesaveloc": "",
+      "priority": null,
+      "startDate": "TODO: date to start",
+      "endDate": "TODO: when project ends",
+      "custom": {
+        "filesaveloc": "",
+        "priority": null,
+        "startDate": "TODO: date to start",
+        "endDate": "TODO: when project ends"
+      },
+      "fname": "Projects.Automation.AHK.Send to Dendron",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "7c7c9364d8e7fed234ae6fff77d3e2d9",
+      "links": [],
+      "anchors": {
+        "title": {
+          "type": "header",
+          "text": "Title",
+          "value": "title",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "description": {
+          "type": "header",
+          "text": "Description",
+          "value": "description",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "goal": {
+          "type": "header",
+          "text": "Goal",
+          "value": "goal",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "context": {
+          "type": "header",
+          "text": "Context",
+          "value": "context",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        },
+        "success-criteria": {
+          "type": "header",
+          "text": "Success Criteria",
+          "value": "success-criteria",
+          "line": 26,
+          "column": 0,
+          "depth": 2
+        },
+        "sub-projects": {
+          "type": "header",
+          "text": "Sub Projects",
+          "value": "sub-projects",
+          "line": 29,
+          "column": 0,
+          "depth": 2
+        },
+        "log": {
+          "type": "header",
+          "text": "Log",
+          "value": "log",
+          "line": 49,
+          "column": 0,
+          "depth": 2
+        },
+        "outputs": {
+          "type": "header",
+          "text": "Outputs",
+          "value": "outputs",
+          "line": 52,
+          "column": 0,
+          "depth": 2
+        },
+        "tasks": {
+          "type": "header",
+          "text": "Tasks",
+          "value": "tasks",
+          "line": 57,
+          "column": 0,
+          "depth": 2
+        },
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 60,
+          "column": 0,
+          "depth": 2
+        },
+        "ideas": {
+          "type": "header",
+          "text": "Ideas",
+          "value": "ideas",
+          "line": 63,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "8jtepud2k2y877ns99o5ny8",
+      "data": {}
+    },
+    "g9zv14g45j01ktu4q8wlg0d": {
+      "id": "g9zv14g45j01ktu4q8wlg0d",
+      "title": "RMB_Menu",
+      "desc": "",
+      "updated": 1663959753843,
+      "created": 1663959707298,
+      "custom": {},
+      "fname": "Projects.Automation.AHK.RMB_Menu",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "57b4b1762835e2d4be8e1af8d30ef09b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "8jtepud2k2y877ns99o5ny8",
+      "data": {}
+    },
+    "sgbh78h20hoyi77beo40tbw": {
+      "id": "sgbh78h20hoyi77beo40tbw",
+      "title": "Note Creation Helper",
+      "desc": "",
+      "updated": 1663911196887,
+      "created": 1663792988206,
+      "custom": {},
+      "fname": "Projects.Automation.AHK.Note Creation Helper",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "09669b8c1723d782d4cfe2dbd8432554",
+      "links": [],
+      "anchors": {
+        "automation-name": {
+          "type": "header",
+          "text": "Automation Name",
+          "value": "automation-name",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "functionality": {
+          "type": "header",
+          "text": "Functionality",
+          "value": "functionality",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "sub-functions": {
+          "type": "header",
+          "text": "Sub-Functions",
+          "value": "sub-functions",
+          "line": 15,
+          "column": 0,
+          "depth": 2
+        },
+        "call-keyboard-shortcut---done": {
+          "type": "header",
+          "text": "Call Keyboard Shortcut - Done",
+          "value": "call-keyboard-shortcut---done",
+          "line": 17,
+          "column": 0,
+          "depth": 3
+        },
+        "recognize-shortcut-list": {
+          "type": "header",
+          "text": "Recognize shortcut list",
+          "value": "recognize-shortcut-list",
+          "line": 31,
+          "column": 0,
+          "depth": 4
+        },
+        "grab-target-file-name---done": {
+          "type": "header",
+          "text": "Grab target file name - Done",
+          "value": "grab-target-file-name---done",
+          "line": 36,
+          "column": 0,
+          "depth": 3
+        },
+        "remove-md-return-remainder---done": {
+          "type": "header",
+          "text": "Remove \".md\", return remainder - Done",
+          "value": "remove-md-return-remainder---done",
+          "line": 45,
+          "column": 0,
+          "depth": 3
+        },
+        "search-full-file-list-for-index-count---check-if-exists": {
+          "type": "header",
+          "text": "Search full file list for index count - check if exists",
+          "value": "search-full-file-list-for-index-count---check-if-exists",
+          "line": 51,
+          "column": 0,
+          "depth": 3
+        },
+        "generate-new-file": {
+          "type": "header",
+          "text": "Generate new file",
+          "value": "generate-new-file",
+          "line": 63,
+          "column": 0,
+          "depth": 3
+        },
+        "provide-text-input-for-task-or-note-description": {
+          "type": "header",
+          "text": "Provide text input for task or note description",
+          "value": "provide-text-input-for-task-or-note-description",
+          "line": 68,
+          "column": 0,
+          "depth": 3
+        },
+        "add-text-input-to-new-file": {
+          "type": "header",
+          "text": "Add text input to new file",
+          "value": "add-text-input-to-new-file",
+          "line": 73,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "inrxfl3s6syfg7r5ssvwz5t"
+      ],
+      "parent": "8jtepud2k2y877ns99o5ny8",
+      "data": {}
+    },
+    "inrxfl3s6syfg7r5ssvwz5t": {
+      "id": "inrxfl3s6syfg7r5ssvwz5t",
+      "title": "Tasks",
+      "desc": "",
+      "updated": 1664320027045,
+      "created": 1664320027045,
+      "custom": {},
+      "fname": "Projects.Automation.AHK.Note Creation Helper.Tasks",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "201297e78ac20e38084af043a7fd14e4",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "qqy720d8qk51cj496b6ahpd"
+      ],
+      "parent": "sgbh78h20hoyi77beo40tbw",
+      "data": {}
+    },
+    "qqy720d8qk51cj496b6ahpd": {
+      "id": "qqy720d8qk51cj496b6ahpd",
+      "title": "1",
+      "desc": "",
+      "updated": 1664320050979,
+      "created": 1664320027041,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "Projects.Automation.AHK.Note Creation Helper.Tasks.1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "6497445c93af2845796a0b60c56eed29",
+      "links": [],
+      "anchors": {
+        "task": {
+          "type": "header",
+          "text": "Task",
+          "value": "task",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "inrxfl3s6syfg7r5ssvwz5t",
+      "data": {}
+    },
+    "et0i96heteukv7m12mwdwbw": {
+      "id": "et0i96heteukv7m12mwdwbw",
+      "title": "Active_Project",
+      "desc": "",
+      "updated": 1664230093794,
+      "created": 1664230093794,
+      "custom": {},
+      "fname": "Projects.Automation.AHK.Active_Project",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "a71565d7e4885e7ab665029b43f73e28",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "ehoyp7j0jwboznh6iox42dq"
+      ],
+      "parent": "8jtepud2k2y877ns99o5ny8",
+      "data": {}
+    },
+    "ehoyp7j0jwboznh6iox42dq": {
+      "id": "ehoyp7j0jwboznh6iox42dq",
+      "title": "Tasks",
+      "desc": "",
+      "updated": 1664230093794,
+      "created": 1664230093794,
+      "custom": {},
+      "fname": "Projects.Automation.AHK.Active_Project.Tasks",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "d6486dfd5db2d286e81aa955169f6bed",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "x6rcaoyoss1nto33b2l7et0"
+      ],
+      "parent": "et0i96heteukv7m12mwdwbw",
+      "data": {}
+    },
+    "x6rcaoyoss1nto33b2l7et0": {
+      "id": "x6rcaoyoss1nto33b2l7et0",
+      "title": "1",
+      "desc": "",
+      "updated": 1664225553777,
+      "created": 1664225144172,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "TODO": "1",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": "",
+        "TODO": "1"
+      },
+      "fname": "Projects.Automation.AHK.Active_Project.Tasks.1",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "f58db7297d5ddcbee6b79ff9eea418de",
+      "links": [],
+      "anchors": {
+        "task-description": {
+          "type": "header",
+          "text": "Task Description:",
+          "value": "task-description",
+          "line": 13,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "ehoyp7j0jwboznh6iox42dq",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "root",
+      "title": "Bullish Design",
+      "desc": "Design. With horns.",
+      "updated": 1663735986145,
+      "created": 1595961348801,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Dendron-1"
+      },
+      "contentHash": "a3bba5c2b22e40ad3a99e08cdb6b9811",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "t900xeu4quyqvn6v9adifht",
+        "oau88xk3c6kjkiu7b8f1xvi"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n\n\nWelcome to Bullish Design Works - the behind the scenes look into Bullish Design. \n\nThis is an *active* overview of current projects and a repository of documentation for past projects. The site itself is a representation of the Dendron (https://wiki.dendron.so/) vault that holds the thoughts and development that goes on behind the scenes. This is just a spit shined version of what's getting done. \n\nCheck back often to see what's new, what's changed, and what's coming next. "
+    }
+  ],
+  "noteIndex": {
+    "id": "root",
+    "title": "Bullish Design",
+    "desc": "Design. With horns.",
+    "updated": 1663735986145,
+    "created": 1595961348801,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "Dendron-1"
+    },
+    "contentHash": "a3bba5c2b22e40ad3a99e08cdb6b9811",
+    "links": [],
+    "anchors": {},
+    "children": [
+      "t900xeu4quyqvn6v9adifht",
+      "oau88xk3c6kjkiu7b8f1xvi"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n\n\nWelcome to Bullish Design Works - the behind the scenes look into Bullish Design. \n\nThis is an *active* overview of current projects and a repository of documentation for past projects. The site itself is a representation of the Dendron (https://wiki.dendron.so/) vault that holds the thoughts and development that goes on behind the scenes. This is just a spit shined version of what's getting done. \n\nCheck back often to see what's new, what's changed, and what's coming next. "
+  },
+  "vaults": [
+    {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "Dendron-1"
+    }
+  ]
+}

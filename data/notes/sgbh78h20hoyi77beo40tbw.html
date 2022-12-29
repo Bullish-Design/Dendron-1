@@ -1,0 +1,52 @@
+<h1 id="note-creation-helper">Note Creation Helper<a aria-hidden="true" class="anchor-heading icon-link" href="#note-creation-helper"></a></h1>
+<h1 id="automation-name">Automation Name<a aria-hidden="true" class="anchor-heading icon-link" href="#automation-name"></a></h1>
+<p>Note Creation Helper</p>
+<h2 id="functionality">Functionality<a aria-hidden="true" class="anchor-heading icon-link" href="#functionality"></a></h2>
+<p>Extend functionality of the included Dendron special notes (<a href="https://wiki.dendron.so/notes/5c213aa6-e4ba-49e8-85c5-1bdcb33ce202/">https://wiki.dendron.so/notes/5c213aa6-e4ba-49e8-85c5-1bdcb33ce202/</a>) to better fit the product development workflow. </p>
+<h2 id="sub-functions">Sub-Functions<a aria-hidden="true" class="anchor-heading icon-link" href="#sub-functions"></a></h2>
+<h3 id="call-keyboard-shortcut---done">Call Keyboard Shortcut - Done<a aria-hidden="true" class="anchor-heading icon-link" href="#call-keyboard-shortcut---done"></a></h3>
+<p>Calls the shortcut for New Task Note, New Project Note</p>
+<p>Reasoning for the "keyboard shortcut to keyboard shortcut" is to have a hook that can be called from other programs/situations</p>
+<p>For now, just have a shortcut that ensures VScode is active window and then calls the note/task shortcut. </p>
+<p>NOTE: Make a global macro to focus the vscode window and call the command pallate. </p>
+<p>NOTE: VScode spell checker?</p>
+<ul>
+<li>Inputs: Keyboard Shortcuts</li>
+<li>Outputs: Keyboard Shortcuts</li>
+</ul>
+<h4 id="recognize-shortcut-list">Recognize shortcut list<a aria-hidden="true" class="anchor-heading icon-link" href="#recognize-shortcut-list"></a></h4>
+<p>Modular aspect of the above. "Database" of different keyboard shortcut inputs and outputs. </p>
+<p>Will allow modularity in the future for interaction from other programs/scenarios.</p>
+<h3 id="grab-target-file-name---done">Grab target file name - Done<a aria-hidden="true" class="anchor-heading icon-link" href="#grab-target-file-name---done"></a></h3>
+<p>Current file name + ".task" or ".note" </p>
+<p>AHK - current window name? Parsed to find and remove the ".md"</p>
+<p>NOTE: AHK activity logger to keep running log of active VS code windows - this function can provide you with last 3-5 windows to pick which one to use. </p>
+<h3 id="remove-md-return-remainder---done">Remove ".md", return remainder - Done<a aria-hidden="true" class="anchor-heading icon-link" href="#remove-md-return-remainder---done"></a></h3>
+<p>Useful filename modification snippet for ahk</p>
+<ul>
+<li>Inputs: File suffix</li>
+<li>Outputs: Everything in the file name before the suffix</li>
+</ul>
+<h3 id="search-full-file-list-for-index-count---check-if-exists">Search full file list for index count - check if exists<a aria-hidden="true" class="anchor-heading icon-link" href="#search-full-file-list-for-index-count---check-if-exists"></a></h3>
+<p>Counter = 0</p>
+<p>Counter=+1</p>
+<p>Check if Filename.Task.(Counter) exists</p>
+<p>If yes, loop
+If no, return filename</p>
+<p>Create filename</p>
+<h3 id="generate-new-file">Generate new file<a aria-hidden="true" class="anchor-heading icon-link" href="#generate-new-file"></a></h3>
+<p>Ensure text in "create new note" bar is highlighted</p>
+<p>Paste in new note name</p>
+<h3 id="provide-text-input-for-task-or-note-description">Provide text input for task or note description<a aria-hidden="true" class="anchor-heading icon-link" href="#provide-text-input-for-task-or-note-description"></a></h3>
+<p>Eventually - have this be a VScode input bar at the top of the screen</p>
+<p>For now - ensure the text cursor goes to the right location in the page to type under a header that can be brought up a level </p>
+<h3 id="add-text-input-to-new-file">Add text input to new file<a aria-hidden="true" class="anchor-heading icon-link" href="#add-text-input-to-new-file"></a></h3>
+<p>Eventual Goal - Not currently needed (see above)</p>
+<p>NOTE: Figure out cleaner formatting for headers - indent each level in the web exported version?</p>
+<p>NOTE: Time is always lost when fiddling around with random code changes trying to hunt for bugs. Better off switching to something else and coming back with fresh eyes. </p>
+<p>NOTE: Make Dendron Logging Function</p>
+<hr>
+<strong>Children</strong>
+<ol>
+<li><a href="/Dendron-1/notes/inrxfl3s6syfg7r5ssvwz5t">Tasks</a></li>
+</ol>

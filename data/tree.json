@@ -1,0 +1,542 @@
+{
+  "roots": [
+    {
+      "key": "t900xeu4quyqvn6v9adifht",
+      "title": "Projects",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron-1",
+      "children": [
+        {
+          "key": "7oln5eqmmokvnyevsaj1sf5",
+          "title": "Automation",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron-1",
+          "children": [
+            {
+              "key": "8jtepud2k2y877ns99o5ny8",
+              "title": "AHK",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron-1",
+              "children": [
+                {
+                  "key": "et0i96heteukv7m12mwdwbw",
+                  "title": "Active_Project",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron-1",
+                  "children": [
+                    {
+                      "key": "ehoyp7j0jwboznh6iox42dq",
+                      "title": "Tasks",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron-1",
+                      "children": [
+                        {
+                          "key": "x6rcaoyoss1nto33b2l7et0",
+                          "title": "1",
+                          "icon": null,
+                          "hasTitleNumberOutlined": false,
+                          "vaultName": "Dendron-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "sgbh78h20hoyi77beo40tbw",
+                  "title": "Note Creation Helper",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron-1",
+                  "children": [
+                    {
+                      "key": "inrxfl3s6syfg7r5ssvwz5t",
+                      "title": "Tasks",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron-1",
+                      "children": [
+                        {
+                          "key": "qqy720d8qk51cj496b6ahpd",
+                          "title": "1",
+                          "icon": null,
+                          "hasTitleNumberOutlined": false,
+                          "vaultName": "Dendron-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "key": "g9zv14g45j01ktu4q8wlg0d",
+                  "title": "RMB_Menu",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron-1",
+                  "children": []
+                },
+                {
+                  "key": "lwmj6wvx0mm4s24hvp06k04",
+                  "title": "Send to Dendron",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "ny4kgnce0ic63rcv2khbr38",
+              "title": "Python",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron-1",
+              "children": [
+                {
+                  "key": "aiqcjw8anmh43kfwbs1f09v",
+                  "title": "Dendron",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron-1",
+                  "children": [
+                    {
+                      "key": "srh6xstyivbtlhlyts38pbr",
+                      "title": "DendronCodeTemplate",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron-1",
+                      "children": []
+                    },
+                    {
+                      "key": "f8zbyvnmkfipj3j0yave3cm",
+                      "title": "GenerateLinks",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron-1",
+                      "children": []
+                    },
+                    {
+                      "key": "g4h1vnzx8y0jsllh3usf7u8",
+                      "title": "Notes",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron-1",
+                      "children": [
+                        {
+                          "key": "nz5uqpq1vub0jnwu05hr5k6",
+                          "title": "1",
+                          "icon": null,
+                          "hasTitleNumberOutlined": false,
+                          "vaultName": "Dendron-1",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "key": "g1qs1oh21fr7q0fmvjovxgq",
+                      "title": "Tasks",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron-1",
+                      "children": [
+                        {
+                          "key": "a5jfir0d92z34i7asq0zk9n",
+                          "title": "1",
+                          "icon": null,
+                          "hasTitleNumberOutlined": false,
+                          "vaultName": "Dendron-1",
+                          "children": []
+                        },
+                        {
+                          "key": "m0heejzu23i0lexutgxd5ew",
+                          "title": "2",
+                          "icon": null,
+                          "hasTitleNumberOutlined": false,
+                          "vaultName": "Dendron-1",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "iiarz11zzpdnj4y6axlrjra",
+              "title": "Solidworks",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron-1",
+              "children": [
+                {
+                  "key": "73dm0w0g63bhgxgfli2ugjf",
+                  "title": "GenerateFile",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "mjuevah0ezfuoz6s9hzzsbu",
+          "title": "Business",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron-1",
+          "children": [
+            {
+              "key": "umjm4n1t2otn5c36sot6jwn",
+              "title": "Planning",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "7gdrfddzmavt5z5lwia48l2",
+          "title": "BusinessProcesses",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron-1",
+          "children": [
+            {
+              "key": "bxe7jlekbezprtzsevtgm43",
+              "title": "Department Request System",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron-1",
+              "children": []
+            },
+            {
+              "key": "jh467kmhnayt9t3l7rgi5tz",
+              "title": "ECR System",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "ixp878ggzn97vdgoghhni85",
+          "title": "Ideas",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron-1",
+          "children": [
+            {
+              "key": "9hpg4vndyhqmi9ys5zf9l7r",
+              "title": "Product List",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron-1",
+              "children": []
+            },
+            {
+              "key": "khu4vt15zbut9m8exp21oii",
+              "title": "Project List",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "z427yobjvuxl20pkvbqm13c",
+          "title": "Website",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron-1",
+          "children": [
+            {
+              "key": "zph8lmucx9dnbnclw7xznbb",
+              "title": "Blog",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "p6jn2w8ucykyrfwvz5680tg",
+          "title": "dendron",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron-1",
+          "children": [
+            {
+              "key": "rkn7n2ononp1pqfuo5tp1r6",
+              "title": "extensions",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron-1",
+              "children": [
+                {
+                  "key": "wpw1zpgpjvrm5ggotw7lke9",
+                  "title": "code",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron-1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "r62v8v6riu61fuodonf40gn",
+              "title": "templates",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron-1",
+              "children": [
+                {
+                  "key": "n7pks9b2wmu781ekv3f7wio",
+                  "title": "CAD",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron-1",
+                  "children": []
+                },
+                {
+                  "key": "i5k82a569umegxhsvzsnhdz",
+                  "title": "new-code",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron-1",
+                  "children": []
+                },
+                {
+                  "key": "2asqyeqs9ffbps79bv59rek",
+                  "title": "new-project",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron-1",
+                  "children": []
+                },
+                {
+                  "key": "k7se5teygzquh3yrwhsu329",
+                  "title": "new-task",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron-1",
+                  "children": []
+                },
+                {
+                  "key": "djulm5x6xzim0mivh2il2fa",
+                  "title": "solidworks",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron-1",
+                  "children": []
+                },
+                {
+                  "key": "1bme19zposzitvgr15n9chl",
+                  "title": "weekly-log",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "oau88xk3c6kjkiu7b8f1xvi",
+      "title": "Log",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron-1",
+      "children": [
+        {
+          "key": "qgp16m81n4poxq3pfpczc48",
+          "title": "Notes",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron-1",
+          "children": [
+            {
+              "key": "7phzmd90nljaljvyi9n9s3m",
+              "title": "1",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "fs4rmst05uz3n7uew4gg1wt",
+          "title": "Tasks",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron-1",
+          "children": [
+            {
+              "key": "i57ltu99i217bn2bx8h59cx",
+              "title": "1",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron-1",
+              "children": []
+            },
+            {
+              "key": "u4nn6841p852cotn9wo0uqt",
+              "title": "2",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron-1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "okoifz6ntjzz3gms87z0qsx",
+          "title": "Weekly",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron-1",
+          "children": [
+            {
+              "key": "6zxg59f42440kh68wu6qshm",
+              "title": "22",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron-1",
+              "children": [
+                {
+                  "key": "41hnelz2q16a3tg31s7s63l",
+                  "title": "39",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron-1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "t900xeu4quyqvn6v9adifht": null,
+    "7oln5eqmmokvnyevsaj1sf5": "t900xeu4quyqvn6v9adifht",
+    "8jtepud2k2y877ns99o5ny8": "7oln5eqmmokvnyevsaj1sf5",
+    "et0i96heteukv7m12mwdwbw": "8jtepud2k2y877ns99o5ny8",
+    "ehoyp7j0jwboznh6iox42dq": "et0i96heteukv7m12mwdwbw",
+    "x6rcaoyoss1nto33b2l7et0": "ehoyp7j0jwboznh6iox42dq",
+    "sgbh78h20hoyi77beo40tbw": "8jtepud2k2y877ns99o5ny8",
+    "inrxfl3s6syfg7r5ssvwz5t": "sgbh78h20hoyi77beo40tbw",
+    "qqy720d8qk51cj496b6ahpd": "inrxfl3s6syfg7r5ssvwz5t",
+    "g9zv14g45j01ktu4q8wlg0d": "8jtepud2k2y877ns99o5ny8",
+    "lwmj6wvx0mm4s24hvp06k04": "8jtepud2k2y877ns99o5ny8",
+    "ny4kgnce0ic63rcv2khbr38": "7oln5eqmmokvnyevsaj1sf5",
+    "aiqcjw8anmh43kfwbs1f09v": "ny4kgnce0ic63rcv2khbr38",
+    "srh6xstyivbtlhlyts38pbr": "aiqcjw8anmh43kfwbs1f09v",
+    "f8zbyvnmkfipj3j0yave3cm": "aiqcjw8anmh43kfwbs1f09v",
+    "g4h1vnzx8y0jsllh3usf7u8": "aiqcjw8anmh43kfwbs1f09v",
+    "nz5uqpq1vub0jnwu05hr5k6": "g4h1vnzx8y0jsllh3usf7u8",
+    "g1qs1oh21fr7q0fmvjovxgq": "aiqcjw8anmh43kfwbs1f09v",
+    "a5jfir0d92z34i7asq0zk9n": "g1qs1oh21fr7q0fmvjovxgq",
+    "m0heejzu23i0lexutgxd5ew": "g1qs1oh21fr7q0fmvjovxgq",
+    "iiarz11zzpdnj4y6axlrjra": "7oln5eqmmokvnyevsaj1sf5",
+    "73dm0w0g63bhgxgfli2ugjf": "iiarz11zzpdnj4y6axlrjra",
+    "mjuevah0ezfuoz6s9hzzsbu": "t900xeu4quyqvn6v9adifht",
+    "umjm4n1t2otn5c36sot6jwn": "mjuevah0ezfuoz6s9hzzsbu",
+    "7gdrfddzmavt5z5lwia48l2": "t900xeu4quyqvn6v9adifht",
+    "bxe7jlekbezprtzsevtgm43": "7gdrfddzmavt5z5lwia48l2",
+    "jh467kmhnayt9t3l7rgi5tz": "7gdrfddzmavt5z5lwia48l2",
+    "ixp878ggzn97vdgoghhni85": "t900xeu4quyqvn6v9adifht",
+    "9hpg4vndyhqmi9ys5zf9l7r": "ixp878ggzn97vdgoghhni85",
+    "khu4vt15zbut9m8exp21oii": "ixp878ggzn97vdgoghhni85",
+    "z427yobjvuxl20pkvbqm13c": "t900xeu4quyqvn6v9adifht",
+    "zph8lmucx9dnbnclw7xznbb": "z427yobjvuxl20pkvbqm13c",
+    "p6jn2w8ucykyrfwvz5680tg": "t900xeu4quyqvn6v9adifht",
+    "rkn7n2ononp1pqfuo5tp1r6": "p6jn2w8ucykyrfwvz5680tg",
+    "wpw1zpgpjvrm5ggotw7lke9": "rkn7n2ononp1pqfuo5tp1r6",
+    "r62v8v6riu61fuodonf40gn": "p6jn2w8ucykyrfwvz5680tg",
+    "n7pks9b2wmu781ekv3f7wio": "r62v8v6riu61fuodonf40gn",
+    "i5k82a569umegxhsvzsnhdz": "r62v8v6riu61fuodonf40gn",
+    "2asqyeqs9ffbps79bv59rek": "r62v8v6riu61fuodonf40gn",
+    "k7se5teygzquh3yrwhsu329": "r62v8v6riu61fuodonf40gn",
+    "djulm5x6xzim0mivh2il2fa": "r62v8v6riu61fuodonf40gn",
+    "1bme19zposzitvgr15n9chl": "r62v8v6riu61fuodonf40gn",
+    "oau88xk3c6kjkiu7b8f1xvi": null,
+    "qgp16m81n4poxq3pfpczc48": "oau88xk3c6kjkiu7b8f1xvi",
+    "7phzmd90nljaljvyi9n9s3m": "qgp16m81n4poxq3pfpczc48",
+    "fs4rmst05uz3n7uew4gg1wt": "oau88xk3c6kjkiu7b8f1xvi",
+    "i57ltu99i217bn2bx8h59cx": "fs4rmst05uz3n7uew4gg1wt",
+    "u4nn6841p852cotn9wo0uqt": "fs4rmst05uz3n7uew4gg1wt",
+    "okoifz6ntjzz3gms87z0qsx": "oau88xk3c6kjkiu7b8f1xvi",
+    "6zxg59f42440kh68wu6qshm": "okoifz6ntjzz3gms87z0qsx",
+    "41hnelz2q16a3tg31s7s63l": "6zxg59f42440kh68wu6qshm"
+  },
+  "notesLabelById": {
+    "t900xeu4quyqvn6v9adifht": "Projects",
+    "7oln5eqmmokvnyevsaj1sf5": "Automation",
+    "8jtepud2k2y877ns99o5ny8": "AHK",
+    "et0i96heteukv7m12mwdwbw": "Active_Project",
+    "ehoyp7j0jwboznh6iox42dq": "Tasks",
+    "x6rcaoyoss1nto33b2l7et0": "1",
+    "sgbh78h20hoyi77beo40tbw": "Note Creation Helper",
+    "inrxfl3s6syfg7r5ssvwz5t": "Tasks",
+    "qqy720d8qk51cj496b6ahpd": "1",
+    "g9zv14g45j01ktu4q8wlg0d": "RMB_Menu",
+    "lwmj6wvx0mm4s24hvp06k04": "Send to Dendron",
+    "ny4kgnce0ic63rcv2khbr38": "Python",
+    "aiqcjw8anmh43kfwbs1f09v": "Dendron",
+    "srh6xstyivbtlhlyts38pbr": "DendronCodeTemplate",
+    "f8zbyvnmkfipj3j0yave3cm": "GenerateLinks",
+    "g4h1vnzx8y0jsllh3usf7u8": "Notes",
+    "nz5uqpq1vub0jnwu05hr5k6": "1",
+    "g1qs1oh21fr7q0fmvjovxgq": "Tasks",
+    "a5jfir0d92z34i7asq0zk9n": "1",
+    "m0heejzu23i0lexutgxd5ew": "2",
+    "iiarz11zzpdnj4y6axlrjra": "Solidworks",
+    "73dm0w0g63bhgxgfli2ugjf": "GenerateFile",
+    "mjuevah0ezfuoz6s9hzzsbu": "Business",
+    "umjm4n1t2otn5c36sot6jwn": "Planning",
+    "7gdrfddzmavt5z5lwia48l2": "BusinessProcesses",
+    "bxe7jlekbezprtzsevtgm43": "Department Request System",
+    "jh467kmhnayt9t3l7rgi5tz": "ECR System",
+    "ixp878ggzn97vdgoghhni85": "Ideas",
+    "9hpg4vndyhqmi9ys5zf9l7r": "Product List",
+    "khu4vt15zbut9m8exp21oii": "Project List",
+    "z427yobjvuxl20pkvbqm13c": "Website",
+    "zph8lmucx9dnbnclw7xznbb": "Blog",
+    "p6jn2w8ucykyrfwvz5680tg": "dendron",
+    "rkn7n2ononp1pqfuo5tp1r6": "extensions",
+    "wpw1zpgpjvrm5ggotw7lke9": "code",
+    "r62v8v6riu61fuodonf40gn": "templates",
+    "n7pks9b2wmu781ekv3f7wio": "CAD",
+    "i5k82a569umegxhsvzsnhdz": "new-code",
+    "2asqyeqs9ffbps79bv59rek": "new-project",
+    "k7se5teygzquh3yrwhsu329": "new-task",
+    "djulm5x6xzim0mivh2il2fa": "solidworks",
+    "1bme19zposzitvgr15n9chl": "weekly-log",
+    "oau88xk3c6kjkiu7b8f1xvi": "Log",
+    "qgp16m81n4poxq3pfpczc48": "Notes",
+    "7phzmd90nljaljvyi9n9s3m": "1",
+    "fs4rmst05uz3n7uew4gg1wt": "Tasks",
+    "i57ltu99i217bn2bx8h59cx": "1",
+    "u4nn6841p852cotn9wo0uqt": "2",
+    "okoifz6ntjzz3gms87z0qsx": "Weekly",
+    "6zxg59f42440kh68wu6qshm": "22",
+    "41hnelz2q16a3tg31s7s63l": "39"
+  }
+}

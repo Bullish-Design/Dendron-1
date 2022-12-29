@@ -1,0 +1,74 @@
+<h1 id="dendroncodetemplate">DendronCodeTemplate<a aria-hidden="true" class="anchor-heading icon-link" href="#dendroncodetemplate"></a></h1>
+<h1 id="overview">Overview<a aria-hidden="true" class="anchor-heading icon-link" href="#overview"></a></h1>
+<p>TODO Create a python script to transform a "Code" Dendron template into properly formatted code.  </p>
+<h1 id="sub-functions">Sub-Functions<a aria-hidden="true" class="anchor-heading icon-link" href="#sub-functions"></a></h1>
+<!-- Overview of any function interplay or broad overviews -->
+<h2 id="open-file">Open File<a aria-hidden="true" class="anchor-heading icon-link" href="#open-file"></a></h2>
+<p>Description: Import a markdown file and store it line by line for later use.
+Input: Folder Location, Filename
+Output: File Contents line by line in array</p>
+<pre class="language-python"><code class="language-python">
+<span class="token keyword">def</span> <span class="token function">read_Dendron_MD_File</span><span class="token punctuation">(</span>mdFile<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    f <span class="token operator">=</span> <span class="token builtin">open</span><span class="token punctuation">(</span>mdFile<span class="token punctuation">)</span>
+    allLines <span class="token operator">=</span> f<span class="token punctuation">.</span>readlines<span class="token punctuation">(</span><span class="token punctuation">)</span>
+    returnLines <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token punctuation">]</span>
+    <span class="token keyword">for</span> eachLine <span class="token keyword">in</span> allLines<span class="token punctuation">:</span>
+        returnLines<span class="token punctuation">.</span>append<span class="token punctuation">(</span>eachLine<span class="token punctuation">)</span> <span class="token comment"># previously eachLine.strip(), but that removes indentation</span>
+    <span class="token keyword">return</span> returnLines
+
+</code></pre>
+<h2 id="code-blockcomment-switcheroo">Code Block/Comment switcheroo<a aria-hidden="true" class="anchor-heading icon-link" href="#code-blockcomment-switcheroo"></a></h2>
+<p>Description: Recognize dendron code blocks, turn those into code - everything else turn into comments
+Input: Array from above, Block comment character start, block comment character end,
+Functionality: Insert comment character on line 1, Find code block, replace with comment end. Repeat, swapping code open for comment block end and code close to comment block start.
+Output: Array of lines formatted for functioning as code.</p>
+<pre class="language-python"><code class="language-python">
+<span class="token keyword">def</span> <span class="token function">convertMDfiletoCode</span><span class="token punctuation">(</span>mdFile<span class="token punctuation">,</span> blockCommentStart<span class="token punctuation">,</span> blockCommentEnd<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    mdFileAsArray <span class="token operator">=</span> read_Dendron_MD_File<span class="token punctuation">(</span>mdFile<span class="token punctuation">)</span>
+    mdFileAsArray<span class="token punctuation">.</span>insert<span class="token punctuation">(</span><span class="token number">0</span><span class="token punctuation">,</span>blockCommentStart<span class="token punctuation">)</span>
+
+    <span class="token keyword">for</span> i <span class="token keyword">in</span> <span class="token builtin">range</span><span class="token punctuation">(</span><span class="token builtin">len</span><span class="token punctuation">(</span>mdFileAsArray<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+        <span class="token keyword">if</span> mdFileAsArray<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">.</span>startswith<span class="token punctuation">(</span><span class="token string">'```python'</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+            mdFileAsArray<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> blockCommentEnd
+        <span class="token keyword">if</span> mdFileAsArray<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">.</span>startswith<span class="token punctuation">(</span><span class="token string">'```'</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+            mdFileAsArray<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> blockCommentStart
+    mdFileAsArray<span class="token punctuation">.</span>insert<span class="token punctuation">(</span><span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">,</span> blockCommentEnd<span class="token punctuation">)</span>
+    <span class="token keyword">return</span> mdFileAsArray
+
+</code></pre>
+<h2 id="save-output">Save output<a aria-hidden="true" class="anchor-heading icon-link" href="#save-output"></a></h2>
+<p>Use template defined "save" location to save output file as copy</p>
+<pre class="language-python"><code class="language-python">
+<span class="token keyword">def</span> <span class="token function">saveArrayToFile</span><span class="token punctuation">(</span>array<span class="token punctuation">,</span> fileName<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token keyword">with</span> <span class="token builtin">open</span><span class="token punctuation">(</span>fileName<span class="token punctuation">,</span> <span class="token string">'w'</span><span class="token punctuation">)</span> <span class="token keyword">as</span> f<span class="token punctuation">:</span>
+        <span class="token keyword">for</span> line <span class="token keyword">in</span> array<span class="token punctuation">:</span>
+            f<span class="token punctuation">.</span>write<span class="token punctuation">(</span><span class="token string">""</span><span class="token punctuation">.</span>join<span class="token punctuation">(</span>line<span class="token punctuation">)</span><span class="token punctuation">)</span>
+
+
+</code></pre>
+<h2 id="recognize-frontmatter-and-extract-data-to-array">Recognize frontmatter and extract data to array<a aria-hidden="true" class="anchor-heading icon-link" href="#recognize-frontmatter-and-extract-data-to-array"></a></h2>
+<p>Get code language, file save location, save as name, etc.</p>
+<pre class="language-python"><code class="language-python">
+<span class="token keyword">def</span> <span class="token function">grabFrontmatter</span><span class="token punctuation">(</span>mdFile<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    
+
+</code></pre>
+<h2 id="link-to-output">Link to Output<a aria-hidden="true" class="anchor-heading icon-link" href="#link-to-output"></a></h2>
+<p>Provide link to output file to open in VScode or in File Explorer</p>
+<pre class="language-python"><code class="language-python">
+
+
+</code></pre>
+<h2 id="language-adaptability">Language adaptability<a aria-hidden="true" class="anchor-heading icon-link" href="#language-adaptability"></a></h2>
+<p>Immediate need for AHK and Python, will need others later</p>
+<p>Function to associate filetype in header to block comment start/end</p>
+<h2 id="block-import">Block Import<a aria-hidden="true" class="anchor-heading icon-link" href="#block-import"></a></h2>
+<p>Also copy code blocks into a common code snippet file for each language? </p>
+<ul>
+<li>And have easy reference to/from this library to make it easier to use/reuse code functions</li>
+</ul>
+<hr>
+<h2 id="tags">Tags<a aria-hidden="true" class="anchor-heading icon-link" href="#tags"></a></h2>
+<ol>
+<li><a title="Private" href="https://wiki.dendron.so/notes/hfyvYGJZQiUwQaaxQO27q.html" target="_blank" class="private">Code (Private)</a></li>
+</ol>
